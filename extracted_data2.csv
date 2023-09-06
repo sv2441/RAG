@@ -1,0 +1,2808 @@
+New Code,OP
+OP1920,Define data management strategy
+OP2026,Obtain mandate to develop DMS
+OP2027,Create a DMS team
+OP2028,Identify DMS stakeholders
+OP1922,Review and approve DMS by stakeholders
+OP2029,Create a DMS socialization strategy
+OP1923,Evaluate the enforceability of DMS
+OP1924,Document high-level business requirements / use Cases
+OP1925,Prioritize business requirements / use cases
+OP2030,Define mecanisms for DMS alignment with organizational changes
+OP1926,Define DM business case
+OP1927,Define expected DM outcomes and targets
+OP2031,Define DMS expected benefits and KPIs
+OP2032,Identify risks associated with not having a DMS
+OP1928,Review and approve DM business case
+OP1929,Define data content strategy
+OP1921,Review external sources for business requirements
+OP2034,Assess the current state of DM initiatives
+OP2035,Define gap closure roadmap
+OP1931,Define data management deployment strategy
+OP2036,Review and approve data management deployment strategy
+OP1974,Define a DM policy and standards
+OP1975,Review and approve DM policy and standards
+OP1976,Audit adherence to DM policy and standards
+OP1944,Establish the Office of Data Management (ODM)
+OP2451,Establish data management processes for the context of the project
+OP1932,Define DMP strategy and approach
+OP2037,Review and approve DMP strategy and approach
+OP2038,Define roles and responsibilities of the DMP function
+OP2039,Define policies and procedures to enforce DMP compliance  
+OP2040,Establish Project Management Office (PMO)
+OP1933,Define formal DMP processes
+OP1934,Integrate DMP concepts in DMS
+OP1930,Define data usage strategy
+OP2676,Define roles and responsibilities specific to managing data and information throughout its lifecycle
+OP2033,Review data usage strategy for ethical considerations
+OP2229,Document intended usage of data
+OP2230,Identify and evaluate restrictions on data usage
+OP2231,Document data usage restrictions
+OP2227,Validate that data collection and/or usage is aligned with legitimate purpose
+OP2713,Implement processes and technologies to ensure that data is collected and used in accordance with applicable laws and regulations
+OP1935,Define program roadmaps aligned with DMS
+OP1936,Review and approve program roadmaps
+OP1937,"Develop project plans detailing deliverables, timelines, and milestones"
+OP2041,Review and approve project plans
+OP1939,Adopt a process optimization framework
+OP1938,Define standard DM processes
+OP2042,Assess quality control within DM process
+OP2043,Monitor quality assurance of DM process
+OP1940,Audit DM processes
+OP2044,Establish formal DM training programs
+OP1941,Define program metrics to track progress
+OP2045,Review and approve program metrics
+OP2046,Report program metrics to track progress
+OP1942,Define outcome metrics to track against business objectives  
+OP2047,Review and approve outcome metrics
+OP2048,Report outcome metrics against business objectives
+OP1943,Define process metrics to drive continuous improvement
+OP2049,Review and approve process metrics
+OP2050,Report process metrics
+OP2988,"Establish an approved Enterprise Information Management solution for documenting business activities, decisions, and processes"
+OP2989,Establish a mechanism for tracking and reporting on adoption and usage of the Enterprise Information Management solution
+OP2990,Develop a training plan to ensure users are properly trained on the Enterprise Information Management System
+OP1988,Establish a data control environment
+OP1989,Define DM stakeholder roles & responsibilities
+OP1990,Demonstrate DM capabilities alignment across organization
+OP1991,Demonstrate alignment between control function and DM policy and standards
+OP1992,Monitor collaboration between DM control functions
+OP1993,Apply controls to data entering/exiting the ecosystem
+OP1997,Define analytics strategy and approach
+OP1999,Define analytics operating model
+OP2000,Establish an analytics funding model
+OP1998,Define analytics categorization and use-cases terminology
+OP2003,Identification of dependencies between analytics and business architecture
+OP2004,Align the Analytics roadmap with the business strategy
+OP2005,Measure and report analytics initiative impact 
+OP2012,Design platform suitable for Analytics operating model
+OP2013,Establish an analytics version control regime
+OP2014,Define and implement data obfuscation strategies
+OP2015,Define environment scalability requirements
+OP2560,Establish quality requirements for automated model development processes
+OP1615,Establish a statement of purpose for model development
+OP2351,Establish experiment tracking and documentation processes
+OP1616,"Document model design, theory and logic"
+OP1617,Document model methodologies and processing components
+OP2568,Conduct an assessment of potential impact to the planet
+OP2352,Record and track experimentation results
+OP1618,Compare model development with alternative theories
+OP1619,Demonstrate sound model development
+OP2280,Define appropriate data sampling techniques
+OP2308,Establish representative sample data population
+OP2309,Validate data sample representativeness
+OP2310,Identify target data population characteristics
+OP2311,Validate target data population characteristics
+OP2244,"Document ""In the lab"" model testing requirements"
+OP2563,"Assess ""In the Field"" testing requirements"
+OP1624,"Define ""In the Lab"" model testing procedures"
+OP2564,"Define ""In the Field"" model testing procedures"
+OP1625,Assess model accuracy
+OP2578,Evaluate the integration testing of the model
+OP2579,Evaluate challenger models prior to deployment
+OP2245,Document type / purpose of test
+OP2246,Document datasets used for modeling and testing
+OP2565,"Document datasets used for ""In the Field"" testing"
+OP2247,Document model parameters
+OP2248,Document testing conditions
+OP2338,Document model dependencies
+OP1627,Evaluate the model behavior over various conditions
+OP1628,Assess the impacts of model assumptions
+OP1629,Evaluate the model impacts on other models
+OP2567,Evaluate the impact of model changes/updates on other models
+OP1630,Assess model performance by model users
+OP2548,Examine UI/UX for deceptive design patterns  
+OP2549,Conduct a user evaluation of the UI/UX
+OP1912,Assess AI system performance
+OP2249,Evaluate and document testing outcomes
+OP1631,Demonstrate model robustness and stability
+OP1632,Establish model report guidelines
+OP1633,Assess model uncertainty and inaccuracy
+OP1634,Define measures to account for model uncertainty and inaccuracy
+OP2566,Monitor and enforce measures that account for model uncertainty and inaccuracy
+OP1635,Adjust model components to reduce uncertainty and inaccuracy
+OP2271,Establish model deployment structure
+OP2272,Establish model deployment strategy
+OP2273,Establish model monitoring strategy and processes
+OP2274,Validate complete model deployment
+OP1636,Define the model conservatism
+OP1637,Document conservative model procedures
+OP1638,Establish limits on model usage
+OP1639,Train model users for conservatism
+OP1640,Demonstrate model conservatism
+OP1643,Define model validation process  
+OP1644,Assign roles & responsibilities for model validation
+OP1646,Train personnel for model validation
+OP1647,Establish incentives for model validation
+OP1648,Identify model components requiring validation
+OP1649,Establish periodic model review
+OP1645,Review model validation by independent party
+OP1682,Record model validation
+OP2279,Establish data requirements for fairness testing
+OP2281,Define data requirements for robustness testing
+OP2282,Establish exploratory data analysis processes / requirements
+OP2335,Document model's limitations
+OP2254,Assess model scalability and/or technical requirements
+OP2258,Establish required AI literacy level
+OP2255,Determine ethical considerations that limit model usage
+OP2256,Determine business considerations that limit model usage
+OP2257,Determine model transparency and explainability capabilities
+OP1626,Assess model limitations
+OP1656,Identify model performance boundaries 
+OP159,Establish model security requirements
+OP1650,Evaluate the model developmental evidence
+OP1651,Assess model assumptions and variable choice
+OP1652,Assess data used in model development
+OP1653,Evaluate the logic and judgment used in model development
+OP1654,Analyze model sensitivity
+OP1655,Conduct model stress testing
+OP2339,Establish model lifecycle's monitoring strategy
+OP2340,Establish requirements and processes appropriate to the context of the project monitoring
+OP2341,Establish monitoring and control points for the Model Development/Testing processes
+OP2342,Establish monitoring and control points for the Model Validation/Selection processes
+OP2343,Establish monitoring and control points for the Model Risk Assessment processes
+OP2344,Establish monitoring and control points for data quality assurance and data selection processes
+OP2345,Establish monitoring and control points for performance assessment of the model in production
+OP1657,Establish ongoing testing & evaluation program
+OP1658,Define ongoing monitoring practices  
+OP1659,Define response procedures for model problems
+OP1660,Assess model limitations periodically
+OP1661,Analyze model overrides periodically
+OP1662,Track model override performance
+OP1915,Integrate logging capabilities into the AI system
+OP1663,Escalate model revision needs
+OP1906,Document corrective actions taken
+OP2334,Audit data and model inputs
+OP1908,Conduct model process verification
+OP1664,Verify data inputs quality
+OP1665,Verify model computer code
+OP1666,Verify system integration
+OP1667,Verify user-developed applications
+OP1668,Review model-derived reports
+OP1670,Define model benchmarking data
+OP1671,Model benchmarking
+OP1672,Analyze benchmarking results
+OP1673,Investigate benchmarking discrepancies
+OP1909,Conduct outcomes analysis
+OP1674,Define outcomes analysis techniques  
+OP1675,Define outcomes analysis metrics  
+OP1676,Establish early warning metrics for outcomes analysis
+OP1677,Define escalation procedures for model deficiencies
+OP2632,Document escalated model deficiencies
+OP1678,Conduct parallel outcomes analysis
+OP1679,Identify necessary model changes
+OP1680,Conduct model back-testing
+OP1681,Analyze model discrepancies
+OP2329,Define procedures to determine and specify decision control points
+OP2330,Define decision control points appropriate to the context of the project
+OP2331,Validate decision control points
+OP2332,Implement the decision control points
+OP1816,Define procedures to document automated model decisions
+OP1804,Document model decisions
+OP2574,Disclose the level of Functional Correctness along with decision
+OP2562,Monitor and validate appropriateness of AI system's decisions and/or outputs
+OP2328,Audit the AI system’s decisions and/or outputs periodically
+OP2333,Audit decision control points periodically
+OP1420,Define Model Metadata Practice
+OP1421,Define and approve PL attribute for Ms attestation
+OP2586,Document the design and functionality of the AI system
+OP1422,Produce model factsheets and model cards
+OP1434,Approve the model before production
+OP1817,Approve the deployment of the Automated Decision System in production
+OP1436,"Diversify datasets for testing, training & validating"
+OP1437,Test AI models on various demographic groups to mitigate systematic bias
+OP1438,Assess training dataset generalizability
+OP1439,Document data used to train machine learning models
+OP1441,Define features to incorporate in AI models
+OP1442,Define robustness requirements of AI models
+OP1443,Conduct adversarial testing on AI models
+OP2288,Evaluate the impact of data quality on model performance
+OP2289,Evaluate adversarial attack impact on model performance
+OP2546,Conduct application security testing
+OP2547,Conduct red-team exercise
+OP2290,Evaluate the impact of resource degradation on model performance
+OP2573,Set up additional safety features for known critical issues
+OP2337,Document model robustness evaluation
+OP1444,Conduct periodic audit of robustness of AI model
+OP1910,Validate AI model robustness
+OP1445,Approve outliers patterns and thresholds
+OP1446,Detect new outlier patterns and thresholds
+OP1447,Approve new data quality criteria
+OP1448,Evaluate the risk appetite on a regular basis
+OP1449,Manage breaks in statistical properties
+OP1450,Manage duration of data relevance
+OP1451,Manage outliers patterns & thresholds
+OP1452,Define data quality criteria
+OP1453,Detect and approve new outlier patterns
+OP1911,Define acceptable levels of model and data drift
+OP2318,Establish mechanisms and processes to mitigate data drift
+OP2319,Establish mechanisms and processes to retrain model
+OP1454,Attest model robustness to data drift
+OP1455,Attest that models trained on time-sensitive data remain relevant
+OP1916,Reinforce vulnerable soft AI assets
+OP1917,Implement intrusion and attack formulation detection system
+OP1918,Create attack response plans
+OP1919,Create a rapid vulnerability mapping
+OP1456,Repel data evasion attacks
+OP1457,Repel data poisoning attacks
+OP1458,Enforce model hardening
+OP1459,Enforce run-time-detection
+OP1460,Assess model security and vulnerability
+OP1461,Attest model robustness to attacks
+OP1463,Determine artifacts (evidence) required to explain model decisions
+OP1464,Collect evidences for explainable decision
+OP2386,Create an explanation/interpretation taxonomy
+OP2449,Identify model variables that influence explainability
+OP2450,Define metrics and measures for monitoring explainability 
+OP2387,"Establish requirements for ""good"" explanations/interpretations"
+OP1466,Implement explanation strategies
+OP2520,Provide additional disclosure on model explainability to the users
+OP2521,Assess potential model risk exposure caused by explainability
+OP2522,Identify root-causes of explainability issues
+OP2523,Resolve root-causes of explainability issues
+OP1467,Audit explainability of AI models
+OP1468,Record model design & model development methodology
+OP1469,Record rule logic used by model
+OP1470,Explain rule design for risk mitigation
+OP1471,Record risks & limitations to selected rules and/or design approach
+OP1472,Record alternative model design approaches that were considered
+OP1473,Monitor model documentation
+OP1474,Implement model reporting mechanisms
+OP1475,"Select features, attributes, and models"
+OP1476,Conduct repeatability assessments for commercial deployments
+OP1477,Test counterfactual fairness
+OP1478,Define repeatability strategies in enterprise policy
+OP1479,Implement repeatability strategies
+OP1480,Conduct periodic audit of repeatability of AI model
+OP1481,Assess context sensibility in AI model's decision-making
+OP1482,Enhance accessibility to replication files for the independent verification team
+OP1483,Identify features requiring external reproducibility testing
+OP1484,Employ independent teams to assess model reproducibility
+OP1485,Create an audit trail to document AI processes
+OP1486,Implement black box recorder 
+OP1487,Identify data relevant to traceability
+OP1488,Define retention periods for traceability data relevant to the industry
+OP1489,Implement appropriate storage methods for traceability data 
+OP1490,Assess model traceability needs
+OP1491,Define traceability strategies in enterprise policy
+OP1492,Implement traceability strategies
+OP1493,Periodically audit the traceability of AI model
+OP1494,Demonstrate the traceability for AI system informing significant decisions
+OP2539,Define scope and requirements of accessibility in the project context
+OP2540,Establish accessibility incidents reporting guidelines and mechanisms
+OP2541,Designate responsible individual(s) for accessible design oversight
+OP2545,Evaluate compliance with the established accessibility requirements
+OP1495,Attest that group information is not applied to individuals 
+OP1805,Document requirements for peer review of model
+OP1812,Define peer review procedures for automated decision systems  
+OP1813,Review automated decision system by appropriate qualified expert(s)
+OP2608,Review automated decision system by two appropriate qualified experts
+OP2298,Publish system specifications in peer-reviewed journal
+OP2609,Address gaps identified and reported during the peer review
+OP1496,Publish outcome of peer review
+OP1497,Define auditability strategies in enterprise policy
+OP1498,Implement auditability strategies
+OP1499,Establish comprehensive record of data management practices
+OP1500,Conduct periodic audit of auditability of the AI system
+OP1501,"Define metrics for model reliability, performance & quality"
+OP2467,Define quality requirements and criteria for the model
+OP2468,Define Model Quality Indicators  
+OP2470,Define Model Quality decision control points  
+OP2469,Validate and approve Model Quality Indicators
+OP1502,Detect production readiness
+OP1503,"Review reliability, performance, and quality metrics periodically"
+OP2471,Validate model quality decision control points
+OP2575,Validate model performance against ground truth
+OP2472,Implement model quality decision control points
+OP2283,Define root-cause analysis processes for model performance
+OP2284,Analyze the datasets effect on model performance
+OP2285,Analyze the model parameter effect on performance
+OP2286,Analyze the system configuration effect on performance
+OP2576,Conduct model reliability testing
+OP2287,Document model performance root cause
+OP2355,Document model performance evaluation
+OP2356,Review and validate model performance
+OP2275,Implement monitoring mechanisms for model's dependency changes
+OP2276,Establish model's computational performance monitoring
+OP2473,Establish processes to address and resolve deviations in model quality
+OP2277,Establish model evaluation metrics
+OP2353,Monitor and document model performance
+OP2474,Implement model quality monitoring
+OP2475,Conduct periodic audit of model quality decision control points
+OP2476,Document model quality assessments
+OP2278,Validate model evaluation metrics
+OP2354,Review and approve model performance requirements
+OP2477,Assess operating practices for model quality monitoring
+OP2478,Validate produced model quality artefacts
+OP2496,Define quality requirements and criteria for the interface
+OP2497,Define guidelines and procedures to determine and specify interface quality decision control points
+OP2498,Define a Interface Quality Indicators
+OP2499,Define Interface quality decision control points
+OP2500,Validate and approve Interface Quality Indicators
+OP2501,Create an escalation process for interface quality deviations
+OP2502,Validate interface quality decision control points
+OP2503,Implement the interface quality decision control points
+OP2504,Document interface quality evaluation
+OP2505,Establish processes to address and resolve deviations in interface quality
+OP2506,Document and communicate the root-cause affecting the interface's quality
+OP2507,Conduct periodic audit of interface quality decision control points
+OP2508,Implement interface quality monitoring
+OP2509,Document interface quality assessments
+OP2510,Validate produced interface quality artefacts
+OP2511,Assess operating practices for interface quality monitoring
+OP1504,Implement monitoring mechanisms for model performance degradation
+OP1505,Process to (TBD)
+OP1506,Align model testing to the production environment
+OP1507,Monitor alignment between model testing and production environment
+OP2336,Document model tuning and maintenance requirements
+OP1508,Define procedures for regular model tuning
+OP1509,Tune AI models periodically
+OP2561,Test for possible fairness implications caused by model tuning
+OP1510,Conduct model tuning with additional human oversight
+OP1511,Record performance of regular model tuning
+OP1512,Identify AI systems trained in static environment
+OP1513,Assess model stability for identified systems
+OP1514,Implement required adjustments to AI systems for model stability
+OP1515,Assess AI system failure
+OP1516,Define a strategy to ensure AI model generalizes well and fails gracefully
+OP2346,Assess how the unavailability of the AI system can affect the organization (BIA)
+OP2347,Establish processes to interrupt AI operation (IRP)
+OP2348,Establish Business Continuity Plan (BCP)
+OP1517,Define a contingency plan in case of system failure
+OP1818,Establish backup systems in case of failure
+OP2411,Establish guidelines and processes to decommission the AI system
+OP1518,Create a sunset plan for automated decision system
+OP1397,Integrate AI risk management in AI design processes (not specific enough)
+OP1398,Integrate Ethical risks in design and use of automated decision systems (not specific enough)
+OP1399,Integrate AI risk management into existing compliance programs
+OP1400,Conduct external review of AI risk management framework
+OP2581,Define project accountabilities for risk management
+OP1862,Integrate AI risk management in project plan (not specific enough)
+OP1863,Review and approve AI risk structure
+OP1879,Define de-risking strategy
+OP1864,"Review and approve AI Risk ""de-risking"" strategy"
+OP2412,Produce a data & analytics risk report
+OP1837,Identify AI protection laws and regulations applicable to the project
+OP1838,Identify legal requirements related to the design / usage of AI / Analytics
+OP2587,Validate legal requirements related to the design / usage of AI / Analytics
+OP1839,Assess the alignment of enterprise policies with AI/AA requirements
+OP1840,Resolve gaps between enterprise policies and AI / AA requirements
+OP1841,Define monitoring activities to comply with AI / AA requirements  
+OP1842,Identify the artifacts required to demonstrate compliance
+OP2610,Collect the artifacts required to demonstrate compliance
+OP2611,Conduct periodic audit of collected artifacts required to demonstrate compliance
+OP2401,Monitor project compliance to AI/AA laws & regulations
+OP1843,Monitor for new or amended AI / AA laws and regulations 
+OP1844,Define review trigger based on new or amended AI / AA laws and regulations
+OP1845,Update enterprise AI/AA policies to align with new or amended laws and regulations
+OP2388,Establish Legal Risk Management processes and guidelines based on organisational policy
+OP2389,Scan legislation and policies for potential legal risks as per the context of the project
+OP1544,Assess legal risks
+OP1382,Assess compliance to legal requirements
+OP2390,Document and record the Legal Risk Assessment outcomes
+OP2391,Communicate and report key LRM issues to senior management and other stakeholders
+OP2392,Establish a legal risk mitigation strategy
+OP2393,Validate and approve Legal Risk mitigation strategy
+OP2394,Appoint a legal advisor for the project
+OP2398,Define adequate provisions for possible disputes/litigations
+OP2399,Secure adequate provisions for possible disputes / litigations
+OP2550,"Establish a ""due diligence"" registry"
+OP2396,Implement the established plans and roadmap to prevent or mitigate adverse impacts
+OP2580,Establish guidelines to identify and assess actual and potential adverse impacts in the context of the project
+OP2552,Establish an organizational IP strategy
+OP2553,Identify the most suitable IP rights to protect the AI product and/or service
+OP2554,Secure proper Intellectual Property rights protection
+OP2555,Establish detailed contractual restrictions on use of the AI
+OP2556,Attest the authorisation for the usage of IP protected data by the AI application
+OP2557,Validate that autonomously generated work by the AI application does not infringe IP rights
+OP1383,"Monitor changes in external laws, policies, and guidelines"
+OP1384,Trigger review of alignment between ethical operating procedures and amended laws and regulations
+OP1385,Update ethic/fairness policies to align with modified laws or regulations
+OP1386,Communicate modification of ethic/fairness policies to relevant stakeholders
+OP2535,Define targeted sustainability requirements and goals of the project
+OP2536,Define key activities for achieving the sustainability goals
+OP2537,Establish sustainability key metrics and measures
+OP2538,Deploy sustainability oversight and reporting mechanisms
+OP1401,Continually identify risks relevant to AI solution (Not specific enough)
+OP1402,Assess risks associated with each deployment stage of AI / automated decision system
+OP1403,Define mitigation plans against identified data & analytics risks
+OP1404,Monitor risks relevant to AI solution
+OP2415,Periodically review data and analytics risks and mitigation
+OP2414,Periodically review ethical risks and mitigation
+OP1387,Identify potential negative impacts resulting from poor system design &/or usage
+OP2406,Record and document risk-benefit tradeoff for decisions
+OP1388,Establish safeguards to address risks related to poor system design &/or usage
+OP2429,Develop a well-being indicators dashboard
+OP2423,Define and establish a D&A risk impact assessment baseline
+OP2424,Establish the D&A risk impact assessment strategy
+OP2425,Conduct human well-being impact assessment
+OP1390,Assess probability and severity of harm of AI usage
+OP2426,Evaluate and document the results of the impact assessment
+OP1391,Periodically review the probability and severity of harm
+OP1392,Attest that probability-severity of harm assessment is periodically performed
+OP1393,Review and make decisions on probability-severity of harm assessment
+OP2427,Approve the impact assessment
+OP2428,Communicate the results of the impact assessment
+OP1394,Define accepted risks related to AI/automated decision system(s)
+OP2407,Establish risk appetite and risk tolerance thresholds
+OP1395,Validate risk acceptance by top management
+OP2558,Document and communicate unmitigated risks to internal stakeholders
+OP1396,Periodically review AI risk acceptance
+OP2408,"Periodically review the risk appetite, risk tolerance and risk-benefit trade-off parameters"
+OP1405,Assess the gravity of model decisions
+OP1406,"Execute the ""Ethical Validation Of Algorithm"" test"
+OP1407,"Submit the ""Ethical Validation Of Algorithm"" test"
+OP1408,"Approve the ""Ethical Validation of Algorithm"" test results"
+OP1409,"Attest that the ""Ethical Validation Of Algorithm"" test has been approved"
+OP2600,Define criteria to trigger an update of the algorithmic impact assessment (AIA)
+OP2601,Approve the criteria to trigger an update of the algorithmic impact assessment (AIA)
+OP1410,Execute Algorithmic Impact Assessment (AIA)  
+OP1411,Communicate AIA results to stakeholders
+OP1412,Update Algorithmic Impact Assessments (AIA)
+OP1413,Publish the final results of the Algorithmic Impact Assessment
+OP1807,Document human-in-the-loop requirements
+OP1808,Define explanation management guidelines and procedures
+OP1809,Define and document training requirements for the project
+OP1810,Document contingency planning requirements
+OP1811,Document approval requirements
+OP2383,Attest that all required training of project team has been provided
+OP1414,Complete suitability assessment of automated decision making for intended purposes
+OP1415,Demonste the suitability of automated decision making for intended purposes
+OP1416,Review and make decisions on sustainability assessment
+OP1369,Rectify adverse effects of analytics (Not specific enough)
+OP1370,Define and implement automated decision appeal process
+OP1371,Communicate right to appeal automated decision
+OP1372,Establish procedures to request reasoning behind AI decision-making process
+OP1373,Communicate procedures to request access to reasoning
+OP1374,Establish provisions of access to AI system reasoning for specific significant decision
+IR,Provision of access to AI system counterfactual reasoning / heavily weighted factors for specific significant decision
+OP1375,Establish provisions of access to AI system counterfactual reasoning / heavily weighted factors for specific significant decision
+OP1376,Monitor requests to access reasoning behind AI decision-making
+OP1377,"Establish mechanisms for end-users to raise issues with the AI system’s output, decisions and/or explanations"
+OP1378,Define critical number of complaints to trigger investigation
+OP1379,Train personnel to investigate AI decision-making processes
+OP2612,Analyze the root causes behind recourses against the automated decisions
+OP2613,Communicate systemic root-causes behind the recourse against the AI system's output and/or decisions to internal stakeholders
+OP1380,Investigate fairness &/or accuracy of decision-making process
+OP1381,Implement required adjustments to AI system's decision-making process
+OP1417,Create and update the processes to address AI related risks
+OP1418,Conduct periodic assessment of AI unintended or unforeseen AI outcomes
+OP1587,Establish model risk management framework
+OP1584,Designate model owners
+OP1588,Define enterprise tolerance for model risk
+OP26,Define model risks taxonomy  
+OP27,Establish model materiality classification scheme
+OP1585,Assess the materiality of model risk
+OP1586,"Implement the ""effective challenge"" principle"
+OP28,Define controls and metrics to measure model risk
+OP1589,Assign responsibilities for model risk controls
+OP1590,Assess model risk
+OP1591,Establish model risk management policies
+OP29,"Define acceptable model development, implementation and use practices"
+OP1592,Establishing standards for model validation
+OP1593,Define model accuracy targets
+OP1594,Establishing standards and procedures regarding model discrepancies
+OP1598,Assign roles & responsibilities for model risk management
+OP1599,Define controls for external model validation
+OP30,Communicate model risk management policies to stakeholders
+OP1600,Review model risk management policies
+OP1601,Update model risk management policies
+OP1602,Assess the effectiveness of the model risk management framework
+OP1603,Verify model use and validation record
+OP1604,Verify model risk management policies
+OP1605,Verify procedure documentation
+OP1606,Verify supporting operational systems
+OP1607,Verify model data reliability
+OP1608,Verify model validation activities
+OP1609,Communicate audit results to upper management
+OP2239,Define model selection criteria  
+OP2240,Validate model selection criteria against organizational guidelines
+OP2241,Evaluate the model performance against established selection criteria
+OP1611,Document model selection
+OP2242,Review and validate model selection
+OP2243,"Audit model selection, review, and approval processes periodically"
+OP2259,Establish model issue / risk repository
+OP2260,Establish model issue / risk detection processes
+OP2261,Categorize model issues/risks
+OP2262,Evaluate the impacts of model issues/risks
+OP2263,Record model issues / risks in repository
+OP2264,Notify of model issue / risk
+OP2265,Monitor model issue/risk repository
+OP2452,Establish model management processes for the context of the project
+OP2266,Define model retraining criteria and requirements  
+OP2267,Define model computational requirements
+OP2268,Establish model dependencies
+OP1610,Establish enterprise-wide model inventory
+OP1903,Establish an AI version control system
+OP1904,Version AI model components
+OP1597,Definition of document model requirements  
+OP2002,Establish model documentation standard
+OP2250,Approve the model documentation standard
+OP2251,Communicate model documentation standard
+OP1612,Document model development
+OP1613,Document model risk management activities
+OP1914,Document AI system development process
+OP1913,Update AI system technical documentation
+OP1614,Produce model validation reports
+OP2252,Periodically review feedback from practitioners 
+OP2253,Conduct periodic audit of model documentation
+OP2269,"Develop ""key AI considerations"" list for procurement"
+OP2270,"Communicate ""key AI considerations"" to third party"
+OP1596,Define validation requirements for vendor models
+OP1595,Define vendor model selection process
+OP1683,Evaluate vendor developmental evidence
+OP1684,Assess data used for vendor model development
+OP1685,Assess vendor model suitability
+OP1686,Monitor vendor model performance on an ongoing basis
+OP1687,Define contingency plan for vendor model
+OP1550,Identify risks related to using Cloud model 
+OP1551,Weigh commercial objectives against identified risks
+OP1552,Conduct a Cloud cost-benefit analysis
+OP1553,Define accepted risks related to cloud computing
+OP1554,Validate risk acceptance by top management
+OP1555,Periodically review Cloud risk acceptance
+OP1556,Integrate Cloud risk management in Cloud design processes
+OP1557,Integrate Ethical risks in design and use of automated decision systems
+OP1558,Integrate Cloud risk management into existing compliance programs
+OP1559,Conduct external review of risk management framework
+OP1560,Continually identify risks relevant to Cloud solution
+OP1561,Identify risks associated with each deployment stage of Cloud / automated decision system
+OP1562,Define mitigation plans against identified risks
+OP1563,Monitor risks relevant to Cloud solution
+OP1564,Assess cloud impact
+OP1565,Communicate cloud impact level to the relevant Cloud stakeholders and Cloud team members
+OP1566,Update cloud impact assessment
+OP1567,Release cloud impact assessment
+OP1568,Create and update the processes to address Cloud related risks
+OP1569,Periodically re-assess Cloud unintended or unforeseen Cloud outcomes
+OP1570,Document Cloud unintended or unforeseen Cloud outcomes
+OP1945,Define enterprise information architecture strategy and approach
+OP1959,Approve enterprise information architecture strategy and approach
+OP1946,Define information architecture roles and responsibilities
+OP1960,Communicate data architecture stakeholder roles and responsibilities
+OP1947,Define data architecture guidelines and procedures
+OP1961,Monitor implementation of data architecture process
+OP2884,Align information architecture with enterprise-wide standards
+OP2885,Implement a mechanism to measure and monitor the alignment of the information architecture to enterprise standards
+OP2886,Provide training and education on information architecture
+OP2887,Establish KPIs to track and report on the alignment of the information architecture to enterprise standards
+OP2888,Establish Information architecture
+OP2890,Define information architecture framework and operational model
+OP2891,Analyze gaps to design Information architecture framework
+OP2892,Periodically update information architecture based on need
+OP2893,"Review, maintain and align internal policies, directives and guidelines related to information architecture"
+OP2898,Provide training and education on information architecture
+OP2899,Train employees on information architecture framework
+OP2900,Monitor alignment with information architecture framework
+OP2952,Establish lifecycle management practices to align with nature and purpose of information and data
+OP2953,Establish guidance for data and information life cycle management
+OP2954,Implement a process for identifying data and information that are no longer needed
+OP2955,Establish a process for managing changes to data and information
+OP2956,Define roles and responsibilities for data and information lifecycle management
+OP2957,Regularly review and audit data and information lifecycle management practices
+OP2645,Define guidelines and procedures to manage web services and API
+OP2646,Define mechanisms to expose data through web services / API
+OP2647,"Audit alignment of shared data (internal, external) with enterprise data standards"
+OP2648,Publish API on external store
+OP2922,Publish APIs on Government of Canada API Store
+OP2927,Make web services available through APIs
+OP2716,Establish an IT Service Strategy
+OP2717,Define the IT Service Design and Development processes and guidelines 
+OP2718,Define the IT Service Transition processes and guidelines 
+OP2719,Define the IT Service Operation processes and guidelines 
+OP2720,Establish processes for continual service Improvement with Client service feedback 
+OP2879,Monitor performance metrics regarding client feedback for continuous improvement of service
+OP2736,Develop and implement IT strategies
+OP2737,Revise and sustain IT strategies
+OP2738,Establish an architecture review board
+OP2739,Establish processes and procedures to approve digital initiatives
+OP2740,Obtain approval for digital initiatives
+OP2901,"Create, capture and manage information using digital systems."
+OP2902,Establish mechanism for prioritizing digital systems
+OP2903,Establish mechanism to increase adoption of digital and information management  systems
+OP2904,Create awareness and education programs on the use of digital systems and information management systems
+OP2905,Assess digital systems against privacy and security data requirements.
+OP2906,Assess business processes to identify potential opprtunities for increased automation
+OP2907,Implement digital systems in an agile and iterative approach
+OP2908,Develop an engagement plan to ensure digital system will meet user and business needs.
+OP2909,"Encourage employees to collaborate, share, and  work digitally."
+OP2910,Regularly review and update the process for prioritizing digital systems
+OP2911,Assess whether there are any existing GC enterprise digital systems that can be leveraged to realize business outcomes
+OP2896,Establish data formatting standards to enable interoperability
+OP2897,"Establish process to enable interoperability, reuse and data sharing"
+OP2721,Define the interoperability requirements for IT services
+OP2722,Perform compatibility testing of IT services
+OP2723,Periodic review of interoperability requirements for IT services
+OP2724,"Establish an employee ""User Profile Directory"""
+OP2725,"Approval of the employee ""User Profile Directory"""
+OP2726,Assess planned IT services usage
+OP2727,Adopt Open source use for services
+OP2882,Contribute to open source communities
+OP2728,Draft the notice of acceptable usage of network and devices
+OP2729,Communicate notice of acceptable usage of network and devices
+OP2730,Create procedures and guidelines for assessing alternatives to SSC service delivery mechanism
+OP2731,Define the procedures and guidelines to access alternatives to SSC service delivery mechanisms
+OP2732,Monitor compliance to procedures and guidelines for accessing alternatives to SSC service delivery mechanisms
+OP2733,Execute periodic reviews and assessements of the IT infrastructure and assets
+OP2734,Develop a technology maintenance and update plan
+OP2735,Communicate the list of supported technology and updates to personnel
+OP2741,Develop and maintain a digital service inventory
+OP2745,Verify and update departmental services in the inventory
+OP2880,Publish Digital Service Inventory
+OP2742,Establish service standards development and management guidelines and processes
+OP2743,Establish  guidelines and processes to review and update service standards
+OP2881,Review service standards periodically
+OP2744,Monitor performance against service standards requirements and objectives
+OP2746,Implement mechanisms and tools to assess the performance of digital services
+OP2747,Report in real-time the performance of digital services to stakeholders
+OP2748,Establish the digital service review schedule
+OP2749,Periodic review of digital services
+OP2750,Establish guidelines and processes to review digital services
+OP2751,Implement mechanisms and tools to publish the status of digital services
+OP2752,Communicate the current status of digital services to stakeholders
+OP2924,Establish processes to enable interoperability
+OP2925,Establish guidelines for implementing interoperable solutions
+OP2926,"Share system's functionality and data with other systems through web services,"
+OP2928,Monitor and measure performance of interoperability solutions
+OP2929,Increase awareness of interoperability solutions
+OP2930,Develop plans to ensure continual improvement of interoperability solutions
+OP2936,Establish accessible formats for departmental information.
+OP2937,"Implementing accessible formats to ensure information is perceivable operable, understandable and robust"
+OP2938,"Establish mechanism to leverage SSC's Accessibility, Accomondations and Adaptive Computer Technology (AAACT) Program to increase accessibility of IT solutions"
+OP2939,Identify and document the requirements for accessible formats
+OP2940,Train employees on accessibility requirements
+OP2941,Establish mechanism for conformity to official languages and accessibility requirements
+OP2942,Implement processes to ensure accessibility features are active on IT solutions and equipment.
+OP2943,Create user feedback channels and establish user groups to validate and review accessibility of departmental information
+OP1970,Define DG strategy and approach
+OP2079,Review and approve DG strategy and approach
+OP1971,Define governance structure
+OP2080,Establish DG working committees
+OP1972,Define data governance roles and responsibilities
+OP2081,Assign roles and responsibilities to DG stakeholders
+OP1973,Establish DG processes
+OP2082,Integrate DG processes in DM initiative
+OP2083,Establish DG routines for operational support
+OP1977,Establish operational DG funding model 
+OP2084,Review and approve DG funding model
+OP1978,Establish program review and approval processes
+OP2085,Approve the program review and approval processes
+OP2086,Communicate program review and approval processes
+OP1979,Define an issue management process
+OP2087,Establish escalation policies and procedures
+OP2088,Approve the issue management and escalation process
+OP2089,Implement issue log
+OP1980,Govern identification and usage of authoritative data domains
+OP1981,"Govern models, glossaries, identifiers, classifications, and relationships"
+OP2849,Define detailed roles and responsibilities for the released / published data
+OP2874,Define high level roles and responsibilities for the released / published data
+OP1320,Develop AI ethical principles
+OP1321,Develop a code of ethics for the use of AI
+OP1322,Define ethics guidelines for business term definitions and value domains
+OP1323,Define an enterprise definition of AI (Artificial Intelligence)
+OP1325,Define internal AI governance Structures
+OP1326,Monitor participation of top management for AI governance
+OP1327,Assign oversight accountability for AI ethical risk management
+OP1328,Define roles and responsibilities for the ethical deployment of AI
+OP1329,Define roles and responsibilities for the management of ethical AI risks
+OP1330,Train project team on ethical AI
+OP1331,Communicate project/purpose of processing to analytics team members
+OP1332,Attest that all analytics team members have been informed of purpose of processing
+OP1848,Define targeted usage and purpose of AI solution
+OP2444,"Define goals related to the alignment of the project's scope, nature, context, and purpose"
+OP1849,Approve the targeted purpose of AI solution prior to usage
+OP2445,Communicate the scope and goals of the AI system
+OP2292,"Identify ""misuse cases"""
+OP1850,Define new AI / AA targeted purpose  
+OP1851,Approve the new AI/AA targeted purpose prior to the usage
+OP1852,Monitor alignment between targeted purposes and usage
+OP1865,Assess appropriateness of targeted usage
+OP1866,Define business objectives and business requirements of project
+OP1867,Define KPIs and success criteria of project
+OP1869,Approve the business objectives and requirements of the project
+OP1870,Approve the KPIs and Success Criteria of the project
+OP1868,Define design and operational metrics of project
+OP1871,Approve the design and operational metrics of the project
+OP1872,Periodically measure operational metrics
+OP1873,Periodically review operational metrics
+OP1874,Approve the targeted model type by the stakeholders
+OP1875,Conduct impact assessment of change requests on project objectives
+OP1876,Approve the model changes based on impacts
+OP2446,Document detected and/or reported deviations in the usage of the AI system
+OP2447,Communicate detected and/or reported deviations in the usage of the AI system
+OP2165,Periodically validate alignment between objectives and model development
+OP2166,Assess developed solutions against targeted outcomes
+OP2614,Communicate assessment results of developed solution against targeted outcomes to stakeholders
+OP2618,Publish system effectiveness and efficiency
+OP2542,Establish monitoring and review of key project activities and controls
+OP2543,Establish an escalation mechanism for project-related issues
+OP1333,Define enterprise directions and guidelines for AI governance
+OP1846,Identify in-scope requirements related to AI / AA purposes
+OP1847,Enterprises define acceptable usage of AI / AA models
+OP1334,Ensure alignment between ethical risk management and national and international guidance or standards
+OP1335,Monitor project compliance to the directive on automated decision-making
+OP2400,Monitor project compliance to TBS policies and directives
+OP1336,Establish a committee to define commercial objectives of AI
+OP1337,Define commercial objectives of using AI
+OP1338,Assess risks related to using AI model 
+OP1339,Assess AI commercial objectives against related risks
+OP1340,Define guidelines and procedures to conduct a cost-benefit analysis for AI
+OP2374,Conduct cost-benefit analysis
+OP2385,Create a business case for the project
+OP2454,Establish reporting requirements and processes for the project
+OP2315,Identify the internal policies and directives applicable to the project
+OP2316,Demonstrate compliance with internal policies and directives
+OP2455,Establish disclosure requirements and protocols for the project
+OP1341,Identify data stakeholders
+OP1343,Identify end-user analytics stakeholders
+OP1342,Assess the information needs of different AI stakeholders
+OP2225,Define end-user problem statements
+OP2422,Identify and list potentially affected stakeholders
+OP2384,Document system purposes and usage context
+OP2226,Validate system purpose and usage context with end-users
+OP2291,Validate solution / system prototypes with end-users
+OP2457,"Periodically report to the board on project progress, issues, and risks"
+OP2458,Approve the board on critical and/or sensitive aspects of the project
+OP1344,Define stakeholder engagement strategy
+OP1346,Identify most effective measures in building trust with stakeholders
+OP1347,Develop communication policy regarding AI use disclosure
+OP1348,"Adjust the communication strategy based on the audience, purpose & context"
+OP1349,Communicate the use of AI in products &/or services to stakeholders
+OP1324,Establish an AI Governance committee
+OP1853,Define roles and responsibilities throughout the Analytics/AI lifecycle
+OP2448,Define responsibilities and accountabilities (RACI) related to the project
+OP1854,Train personnel for AI target purposes
+OP2456,Appoint an Ethics advisor/officer for the project
+OP1877,Create a governance responsibility matrix for the project
+OP2559,Train project team on model selection and quality implications 
+OP1878,Approve the governance responsibility matrix for the project
+OP1350,Identify competent personnel on ethical considerations
+OP1352,Communicate designated individual(s) contact information throughout the organization
+OP1353,Demonstrate that outcome accountability is assigned to individual(s)
+OP1354,Establish feedback channels
+OP1355,Establish decision review channels
+OP1356,Rectify inaccurate personal information upon customer request
+OP1357,Establish a committee to manage communication channels
+OP1358,Communicate data ingested by AI system to AI subject
+OP1359,Communicate types of algorithms employed to AI subject
+OP1360,Communicate categories into which people can be placed
+OP1361,Communicate system features driving decision outcomes
+OP1362,Map AI Operating Practices to analytics processes
+OP1363,Map privacy operating practices to AI processes
+OP1364,Implement privacy operating practices within AI processes
+OP1365,Monitor privacy operating practices within AI processes
+OP1366,Map data security operating practices to AI processes
+OP1367,Implement data security operating practices within AI processes
+OP1368,Monitor data security operating practices within AI processes
+OP1519,Develop and update organizational cloud policy
+OP1520,Define guidelines and criteria for determining the types of applications that can be used in cloud computing
+OP1521,Define guidelines for the usage of cloud computing
+OP1522,Define procedures and authorities to approve the use of cloud computing
+OP1523,Define authorities and responsibilities with respect to the use of cloud computing
+OP1524,Define acceptable usage of cloud computing
+OP2883,Establish cloud first approach under the Enterprise Architecture framework 
+OP1525,Appoint members of the Cloud Committee
+OP1526,Define internal governance structures & processes required for Cloud deployment
+OP1527,Monitor participation of top management for cloud governance
+OP1528,Examine intended transition to cloud computing  
+OP1529,Define guidelines and procedures to request a transition to cloud computing
+OP1530,Define principles of engagement with cloud computing provider  
+OP1531,Integrate cloud computing provider requirements in contractual agreement
+OP1532,Define guidelines and procedures to request usage of cloud computing
+OP1533,Define specific intended usage of cloud computing
+OP1534,Approve the intended usage of cloud computing
+OP1535,Identify Cloud stakeholder audience
+OP1536,Assess the information needs of different cloud stakeholders
+OP1537,Identify analytics stakeholders
+OP1538,Define stakeholder explanation strategy
+OP1539,Identify features that have the greatest impact on stakeholders
+OP1540,Identify most effective measures in building trust with stakeholders
+OP1541,Develop communication policy regarding Cloud use disclosure
+OP1542,"Adjust the communication strategy based on the audience, purpose & context"
+OP1543,Communicate the use of Cloud in products &/or services to stakeholders
+OP1545,"Monitor changes in external laws, policies, and guidelines"
+OP1546,Trigger review of alignment between ethical operating procedures and amended laws and regulations
+OP1547,Update ethic/fairness policies to align with modified laws or regulations
+OP1548,Communicate modification of ethic/fairness policies to relevant stakeholders
+OP1549,Map Cloud Operating Practices to analytics processes
+OP2847,Document business context of the project 
+OP2848,Document functional requirements
+OP2862,Assess need for metric assurance
+OP2863,Establish collaboration with assurance providers
+OP2864,Assess reliability of assurance providers
+OP2857,Define expected outcomes for metric formulas and computations
+OP2853,Validate input data for metric calculation
+OP2854,Validate metric formulas and computations
+OP2855,Classify metric information
+OP2856,Implement data protection methods for metric information
+OP2774,Designate business process owner for metric
+OP2775,Identify all stakeholder groups involved in metric calculation
+OP2776,Define roles and responsibilities for metric calculation
+OP2782,Determine data requirements for metric calculation
+OP2777,Define step-by-step metric calculation process
+OP2778,Assign ownership for each substep of metric calculation
+OP2779,Define data source and provider for metrics
+OP2780,Determine error threshold for metrics
+OP2781,Obtain approval for metric calculation process
+OP2860,Determine report layout for metrics
+OP2861,Establish process for continuous improvement and feedback incorporation
+OP2858,Define reporting information and layout for each metric audience
+OP2859,Validate relevance of metric for intended audience
+OP2783,Define review process for metric calculation
+OP2784,Identify reviewers for metric calculations
+OP2785,Review calculation results for each metric
+OP2786,Obtain approval for final results of metric calculations
+OP2755,Define the list of metrics relevant for a context or objective
+OP2756,Validate the appropriateness of metrics for a context or objective
+OP2757,Obtain approval for metric usage
+OP2758,Establish process and triggers to update metrics
+OP2759,Approve request to update metrics
+OP2762,Establish process document for developed metrics
+OP9,Define business glossary management processes
+OP1,Define guidelines and procedures to manage the business glossary
+OP2,Define guidelines and procedures to use the business glossary in a corporate setting
+OP3,Conduct periodic assessment of the corporate alignment on the business glossary
+OP4,Define the role structure for managing the business glossary
+OP5,Manage a corporate list of business glossary stakeholders
+OP6,Assign business glossary roles
+OP2753,Designate data owner for data sources 
+OP74,Define data owner responsibilities
+OP75,Designate business data element owner
+OP2375,Create a Data RACI for the project
+OP2376,Review and approve the Data RACI for the project
+OP1892,Attest ownership for all AI data elements 
+OP7,Implement an enterprise business glossary
+OP1739,Integrate workflows into the business glossary
+OP1736,Create a roadmap for new business data elements
+OP2377,"Create a list of the business terms used ""In the lab"" and ""In the field"""
+OP2378,Review and validate business terms related to a project
+OP1718,Establish guidelines for business data element names and definitions 
+OP1715,Identify key business data elements
+OP10,Request creation of new business term (in the business glossary)
+OP11,Request definition and approval of business terms
+OP12,Revise new business term requests
+OP13,Approve the addition of new business terms to the business glossary
+OP1956,Document business term definitions
+OP14,Approve business definitions for data
+OP2069,Map business definitions to taxonomies
+OP15,Define guidelines to avoid unintended bias in business term definitions
+OP16,Validate that business term definitions are free of unintended bias
+OP17,Periodically examine that business term definitions are free of unintended bias
+OP18,Establish business term definitions for ethical sensitive data
+OP19,Approve the defined business term definitions for ethically sensitive data
+OP20,Communicate approved business definitions for ethical sensitive data
+OP1693,Designate metadata management stakeholders
+OP1690,Establish data definitions & valid values
+OP1740,Implement metadata repository
+OP1747,Establish metadata quality control
+OP1694,Implement tracking mechanisms for metadata
+OP2808,Monitor compliance to the Standard on Metadata
+OP1954,Establish a data catalog
+OP2059,Define basic metadata to be captured for data elements
+OP2191,Automate data catalog capabilities
+OP2192,Establish data catalog interoperability
+OP1966,Monitor business metadata capture
+OP160,Define the metadata scope to be captured during model development
+OP161,Capture required metadata to explain model decisions
+OP162,Approve captured metadata for explainability
+OP163,Define metadata model
+OP1958,Define metadata model for DM initiative
+OP164,Govern metadata model
+OP165,Monitor gaps in metadata model usage
+OP166,Establish the capability to resolve metadata model usage issues
+OP2680,"Implement mechanisms and tools to manage, maintain and/or link to organizational metadata models"
+OP2681,Review and update metadata models periodically
+OP2682,Record and track changes to metadata models
+OP2807,Validate metadata requirements for systems that manage information resources
+OP2806,Validate that information  systems adhere and comply to organizational requirements
+OP2803,Define metadata requirements for systems that manage information resources
+OP234,Demonstrate that source metadata is available
+OP235,Validate access to required transformation metadata
+OP236,Extract metadata included in AML data lineage
+OP2098,Analyze data retention regulatory requirements
+OP2099,Analyze data retention business requirements
+OP2100,Assess business needs against regulatory requirements
+OP2101,Establish data retention schedules
+OP2102,Define guidelines for operationalizing retention schedules
+OP2103,Define roles and responsibilities for the data retention policy
+OP2104,Define success criteria for data retention
+OP2105,Define data retention policy
+OP2106,Approve the data retention policy
+OP2107,Socialize data retention policy
+OP2108,Assign roles & responsibilities for data retention policy
+OP2109,Define triggers for data retention policy update
+OP2110,Update data retention policy
+OP2959,Define and document retention periods for all data.
+OP2960,Create and maintain a data retention schedule
+OP2961,Establish a process for regularly reviewing and updating the data retention policy and schedule
+OP2962,Train staff on the data retention policy and schedule
+OP2963,Monitor compliance with the data retention policy and schedule
+OP2380,Analyze data retention requirements (In the lab and In the field)
+OP2111,Assess the current state of data retention
+OP2112,Analyze gaps between the current state and the data retention 
+OP2113,Establish prioritization criteria for data retention
+OP2114,Prioritize implementation activities for data retention policy
+OP2115,Establish roadmap for data retention policy implementation
+OP3001,Establish procedures to review and approve changes in the retention periods
+OP2116,Identify dependencies for data in retention scope
+OP2199,Create a data retention plan for project data (In the Lab and In the field)
+OP2202,Review and approve project's data retention management plan
+OP2117,Attest that timestamps exist for acquired or created data
+OP2118,Define retention monitoring framework
+OP2119,Define processes for retention monitoring 
+OP2131,Define procedures for retention monitoring
+OP2120,"Design metadata management solutions for data retention, lineage, and traceability"
+OP2121,"Implement metadata management solutions for data retention, lineage, and traceability"
+OP2122,Verify timely resolution of data retention issues
+OP2200,Periodically review project data against retention schedules
+OP2123,Periodically review records against retention schedules
+OP2124,Identify records to be retained beyond schedule
+OP2125,Define guidelines and procedures to dispose of data
+OP2132,Define data disposal sessions
+OP2357,Develop data disposal processes
+OP2126,Design and develop data disposal processes
+OP2127,Approve the data disposal methods
+OP2128,Define roles and responsibilities for data disposal implementation
+OP2129,Implement data disposal processes
+OP2130,Approve the data disposal sessions
+OP2964,Develop and implement procedures for securely disposing of data when the retention period has expired
+OP2965,Implement retention periods for all information and data
+OP2966,Establish retention and disposition periods for information
+OP2967,Develop a data retention and disposal guidelines
+OP2969,Define roles and responsibilities for managing compliance in the disposal process
+OP2970,Provide training on compliance requirements to all personnel involved in the disposal process
+OP2971,Document and report all disposals in accordance with regulations
+OP2972,Establish accountabilities and monitor application of disposition authorization
+OP2958,Develop processes for archiving data and information
+OP2973,Establish processes to identify and preserve any records that could have historical or achival importance.
+OP2974,Establish accountabilities and monitor application of disposition authorization
+OP2975,Develop process to transfer archival records to Library & Archives Canada
+OP2985,Define criteria to identify information of business value
+OP2986,Establish access to departmental information identified as archival
+OP2987,Transfer information to Library and Archives Canada per disposition plan
+OP76,Define data classification guidelines and procedures
+OP77,Define roles and responsibilities related to data classification
+OP2022,Define data handling procedures for classification levels
+OP2071,Define business rules for consistent data classification
+OP2072,Define business rules for classification of data element combinations
+OP2073,Define business rules for unclassified data management
+OP2074,Define change management guidelines for data classification
+OP2077,Automate data classification
+OP2078,Validate automated classification processes
+OP78,Define data classification schema 
+OP1957,Establish data identification scheme
+OP2070,Establish data taxonomy schemes
+OP79,Establish provisions for personnel training on data classification
+OP2075,Implement classification schemes across data assets
+OP80,Implement mechanisms to monitor data classification usage
+OP2076,Modify data classification
+OP81,Audit compliance to data classification schema periodically
+OP128,Access to data classification
+OP129,Define enterprise guidelines for accessing data classification
+OP130,Attest that project resources have access to enterprise data classification
+OP2944,Develop data taxonomy mapping and classification structures
+OP2945,Implement data taxonomy and classification structures across departmental activities
+OP2946,Establish mechanism for data taxonomy and classification maintenance
+OP2947,Train employees on data taxonomy and classification structures
+OP2948,"Establish mechanism for managing, storing, searching, and retrieving information and data of all formats."
+OP2949,Align taxonomies to enterprise-wide standards
+OP2950,Establish a process for mapping existing taxonomies to the enterprise-wide standards
+OP2951,Monitor the taxonomies to ensure compliance with the enterprise-wide standards
+OP82,"Define ""Corporate Information Asset"" categories and classification procedures"
+OP83,"Define ""restricted data"" categories and classification procedures"
+OP84,"Define ""Privacy Level"" attributes and classification guidelines"
+OP85,"Manage ""Privacy Level"" attributes in Business Glossary"
+OP86,"Periodically or trigger a review of ""Privacy Level"" classification"
+OP87,"Tag data (in systems) with ""Privacy Level"" attribute"
+OP88,"Define ""Ethical Sensibility"" attributes and classification guidelines"
+OP89,"Manage ""Ethical Sensibility"" attributes in Business Glossary"
+OP90,"Periodically or trigger a review of ""Ethical Sensibility"" classification"
+OP91,"Tag data (in systems) with ""Ethical Sensibility"" attribute"
+OP92,"Identify data that must be managed as ""Medical Data"""
+OP93,"Define ""Medical Data"" attributes and classification guidelines"
+OP94,"Manage ""Medical Data"" attributes in Business Glossary"
+OP95,"Periodically or trigger a review of ""Medical Information"" classification"
+OP96,"Tag data (in systems) with ""Medical Information"" attribute"
+OP97,"Identify data that must be managed as ""Special category of data"""
+OP98,"Define ""Special categories of data"" attributes and classification guidelines"
+OP99,"Manage ""Special categories of data"" attributes in Business Glossary"
+OP100,"Periodically or trigger a review of ""Special categories of data"" classification"
+OP101,"Tag data (in systems) with ""Special categories of data"" attribute"
+OP102,"Identify data that must be managed as ""Data relating to criminal conviction"""
+OP103,"Define ""Data relating to criminal conviction"" attributes and classification guidelines"
+OP104,"Manage ""Data relating to criminal conviction"" attributes in Business Glossary"
+OP105,"Periodically or trigger a review of ""Data relating to criminal conviction"" classification"
+OP106,"Tag data (in systems) with ""Data relating to criminal conviction"" attribute"
+OP107,"Identify data that must be managed as ""Public personal information"""
+OP108,"Define ""Public Personal Information"" attributes and classification guidelines"
+OP109,"Manage ""Public Personal Information"" attributes in Business Glossary"
+OP110,"Periodically or trigger a review of ""Public Personal Information"" classification"
+OP111,Tag project data fields with data classification attributes
+OP112,Define data classification attribute value
+OP114,Define enterprise guidelines for classifying AI models
+OP115,Classify models
+OP116,Define metadata classification schema for ethical sensitive data
+OP117,Define procedures for the classification of ethically sensitive data
+OP118,Communicate metadata differentiating ethical sensitive data to personnel
+OP119,Classify ethical sensitive data
+OP120,Analyze the dataset to identify ethically sensitive data
+OP121,Request classification of data used by a project (if missing)
+OP122,Attest that classification is defined for all project data
+OP123,Define privacy classification requirements  
+OP124,Define guidelines to classify personal information
+OP125,Communicate personnel for personal information classification
+OP126,Classify personal information
+OP127,Approve the classification of personal information
+OP136,Develop data criticality definition standards
+OP137,Define guidelines and procedures to determine data criticality in context
+OP138,Periodically audit the usage of data criticality definition
+OP139,Assess criticality of data (In the lab)
+OP2417,Assess criticality of data (In the field)
+OP1894,Define and document critical data elements (In the lab)
+OP2419,Define and document critical data elements (In the field)
+OP1895,"Classify data according to sensitivity, criticality, and business value"
+OP2636,Classify data according to archival value
+OP140,Establish committees required to support CDE management
+OP141,Define CDE guidelines and management requirements
+OP142,Identify ownership of each CDE
+OP143,Consolidate CDE in business glossary
+OP144,Monitor adequate purpose and usage of CDEs
+OP2418,Identify enterprise CDE used in the context of the project
+OP145,Define data requirements for business continuity (In the field)
+OP146,Identify critical information in the enterprise information inventory
+OP2634,Define guidelines and procedures to determine the business and archival value of data
+OP1688,Establish data stewardship council
+OP1706,Define data steward requirements
+OP1702,Define data stewardship processes
+OP1734,Create an overall data stewardship roadmap
+OP1689,Designate data stewards
+OP1713,Provide data quality training to Data Stewards
+OP1731,Create a stewardship reporting structure
+OP1705,Define required tools for data stewardship
+OP1737,Implement data stewardship portal
+OP1738,Implement data stewardship wiki
+OP1710,Train personnel for usage of data stewardship tools
+OP1697,Designate responsible party for data quality rules
+OP1698,Define guidelines for managing data quality rules
+OP327,Define data quality rules (In the lab and In the field)
+OP328,Communicate data business rules to relevant stakeholders
+OP329,"Refine or adjust data quality (business) rules after data discovery, profiling or assessment"
+OP2024,Document data quality rules as metadata
+OP361,Define data transformation guidelines and procedures
+OP362,Define data transformation rules
+OP1720,Define data transformation workflow
+OP363,Communicate data transformation rules
+OP364,Train employees for consistent data transformation
+OP1581,Define aggregation rules for data in a specific context
+OP1582,Define roles and responsibilities to aggregate data
+OP2875,Document data transformation processes
+OP365,Document data transformation processes (In the lab)
+OP2198,Document data transformation processes (In the field)
+OP366,Review and approve automated data transformation processes
+OP367,Review and approve manual data transformation processes
+OP368,Conduct periodic audit of data transformation documentation
+OP1583,Monitor aggregated data for a specific context
+OP1899,Document data enhancement usage
+OP1900,Assess the usage of data enhancement
+OP197,Define an input data management standard
+OP198,Record criteria for data acquisition
+OP199,Enable accessibility of data lineage and metadata for data source identification
+OP21,Define permissible values  
+OP22,Request changes to permissible values
+OP23,Communicate changes in permissible values to system owners
+OP24,Detect unpermitted values
+OP25,Review and approve value domains of project related data
+OP2381,Attest / demonstrate that only permissible data values / approved value domains are used
+OP71,Define guidelines for acceptable value domains for ethical sensitive data
+OP72,Attest that value domain of a new ethical sensitive business term has acceptable values
+OP73,Periodically examine that value domains of ethical sensitive business terms have acceptable values
+OP8,Document data requirements using business terms
+OP2691,Define Information Assurance requirements
+OP1948,Assess enterprise data requirements
+OP1962,Translate data requirements into business element requirements
+OP1963,Translate business element requirements into physical data elements
+OP1949,Review restrictions related to business data requirements
+OP1951,Define business processes
+OP1964,Define critical data for business processes
+OP1965,Review data architecture and business architecture alignment
+OP2179,Define data sovereignty standards
+OP2180,Define data sovereignty requirements and restrictions
+OP2181,Establish data sovereignty rules
+OP2182,Track data sovereignty metadata capture
+OP2183,Integrate sovereignty requirements in data sharing agreements
+OP2184,Establish data sovereignty controls
+OP2358,Analyze data sovereignty requirements that may apply to the project
+OP153,Create a gold standard for data labeling
+OP154,Train observers for gold standard
+OP155,Define data labeling guidelines and procedures
+OP156,Define and approve dataset annotation taxonomy
+OP157,Use approved annotation taxonomy
+OP158,Monitor annotation taxonomy usage
+OP131,Create data sensitivity labels
+OP132,Define autolabeling rules
+OP2193,Implement sensitivity labels
+OP133,Review and validate dataset tagging
+OP206,Demonstrate agility improvements and collaboration
+OP207,Demonstrate the reduction of risks/costs through data lineage
+OP208,Review all business & data transformation
+OP226,Define guidelines and procedures to maintain data lineage
+OP2359,Define processes to maintain data lineage (In the lab and In the field)
+OP227,Define roles and responsibilities to maintain data lineage
+OP228,Demonstrate that DL maintenance reflects org changes
+OP229,Update data lineage based on triggering factors
+OP230,Document changes to existing data lineage
+OP2712,Implement processes and technologies to track and document data throughout the AI system's lifecycle
+OP1952,Identify logical data domains
+OP1967,Designate data domain owners
+OP1968,Designate authoritative data domains
+OP1969,Define guidelines for the usage of authoritative domain
+OP1955,Verify authoritative data domain
+OP2056,Establish data repository inventory
+OP2057,Map data domains to physical repositories
+OP2058,Verify data repository inventory periodically
+OP1953,Define policy for authoritative provisioning point usage  
+OP209,Identify source systems
+OP210,Establish data lineage standards
+OP211,Train personnel for data lineage
+OP212,Implement standards to monitor data lineage definition
+OP213,Audit compliance to data lineage standards periodically
+OP214,Document client filtering ETL 
+OP215,Document source-system diagrams and data flow
+OP216,Document operational and system procedures
+OP217,Document service level agreements
+OP218,Produce a control report
+OP219,Document TM ETL
+OP220,Create a TM source-system diagrams
+OP2584,Identify applicable regulation standards or internal policies regarding data lineage
+OP221,Analyze data lineage regulatory requirements
+OP2360,Review and approve data lineage requirements
+OP222,Define events that trigger master list and lineage updates
+OP223,Produce AML systems master list
+OP224,Attest that required AML systems are covered by DL
+OP237,Determine who can access and/or change AML DL
+OP238,Manage who can access and/or change ALM DL
+OP2866,List sources for data
+OP2303,"List sources for data used ""In the lab"""
+OP2320,"List sources for data used ""In the field"""
+OP178,"Document provenance of business terms used ""In the Lab"""
+OP225,Define data lineage for data elements
+OP181,"Attest that the provenance of business terms used ""In the Lab"" has been documented and is approved"
+OP182,"Document provenance of business terms used ""In the Field"""
+OP184,"Attest that the provenance of business terms used ""In the Field"" has been documented and is approved"
+OP185,Trigger the process to reassess risks based on the system change
+OP186,Define data lineage strategies in enterprise policy
+OP187,Implement the defined data lineage strategies
+OP188,Periodically audit the implementation of data lineage strategies
+OP189,Establish data provenance record for models
+OP192,Document data provisioning processes
+OP1893,Assess data dependencies and interconnectivities
+OP190,Periodically audit the data provenance record
+OP239,Validate data authorship
+OP2060,Develop Enterprise Data Model (EDM)
+OP2061,Review and approve EDM
+OP2062,Define conceptual models for enterprise data domains
+OP2063,Define the logical models for enterprise data domains
+OP2064,Verify conceptual and logical data models
+OP2065,Establish data taxonomy schemes
+OP2066,Define policy for data model and taxonomy usage  
+OP2067,Establish physical data model
+OP2068,Develop enterprise data flow diagrams
+OP231,Demonstrate that metadata is available
+OP232,Validate access to required transformation metadata
+OP233,Extract metadata included in AML data lineage
+OP200,Access to glossary/physical mapping
+OP201,Map glossary terms and physical terms
+OP202,Review and approve glossary/physical terms mapping accuracy
+OP203,Verify availability of metadata definitions
+OP204,Produce definitions for all metadata
+OP205,Align business terms with physical elements
+OP240,Conduct periodic audit of data lineage
+OP245,Inventory physical devices and systems within the organization
+OP246,Inventory software platforms and applications within the organization
+OP247,Map organizational communication and data flows
+OP248,Catalog external information systems
+OP249,"Prioritize resources based on their classification, criticality, and business value"
+OP250,Establish cybersecurity roles and responsibilities for the entire workforce and third-party stakeholders
+OP251,Request addition of a new system in enterprise system inventory
+OP252,Add a new system to the enterprise system inventory
+OP253,Define guidelines and procedures to decommission systems
+OP254,Conduct periodic assessment of the state of decommissioned systems
+OP172,Inventory systems involved in model building
+OP173,"Consult inventory of the systems involved ""In the lab"""
+OP174,"Attest that the inventory of all systems feeding and used ""In the lab"" has been completed and approved"
+OP175,Inventory systems involved in model governance (operational environments)
+OP176,Consult inventory of the systems involved in model governance (In the field)
+OP177,Attest that the inventory of all systems feeding and used for model governance (In the field) has been completed and approved
+OP2789,Define guidelines and procedures to update and maintain the enterprise data inventory
+OP2790,Update the enterprise data inventory
+OP2642,Update inventory of data and information resources
+OP2754,Define update schedule and procedures for project data
+OP241,Create an enterprise data inventory
+OP242,Inventory data throughout organization's systems
+OP2640,Inventory data and information resources
+OP1575,Train personnel on extracting and loading data procedures
+OP2991,Establish and maintain corporate repositories
+OP2992,Define and document policies and procedures for data and information repositories
+OP2993,Establish data and information access and security protocols for the repositories
+OP2994,Establish a process for updating and maintaining the data and information repositories
+OP2995,Develop a plan for the storage and backup of data and information repositories
+OP2996,Monitor the KPIs associated with the data and information repositories maintenance
+OP2997,Implement privacy and security requirements for data repositories
+OP1201,Determine required license types
+OP2606,Establish processes to store and safeguard software components
+OP1801,Establish safeguards for proprietary software components
+OP2607,Store all released versions of algorithm and software components
+OP1802,Establish provisions for access to software components
+OP2844,Analyse validity of licences on IP and technologies related to data and models
+OP2845,Attest to the validity of licences on IP and technologies related to data and models
+OP2871,"Assess data eligibility to being released as ""open data"""
+OP2872,Implement the conversion protocol(s) for data and information identified for release
+OP2873,Establish open data and open information requirements in the context of the project
+OP2633,"Define Open Data policy, guidelines, and procedures  "
+OP2787,Define guidelines and procedures for the periodic identification of high value data
+OP2638,Define guidelines and procedures for the release / publishing of data
+OP2635,Create a Data & Information Release Plan
+OP2643,Implement the Data and Information Release Plan
+OP2185,Establish Open Government Implementation Plan
+OP2644,Monitor compliance to the Directive on Open Government
+OP2186,Define Open Data scope  
+OP2370,Define Open Data scope and requirements in project context  
+OP2187,Define Open Information scope  
+OP2829,Define guidelines and procedures for the monitoring of Open Data Portal
+OP2772,Monitor Open Government Portal resource page
+OP2767,Identify high value data to be released (enterprise)
+OP2768,Identify high value data to be released (programs/sectors)
+OP2641,Assess priority for the release of data
+OP2769,Assess readiness of data to be released
+OP2877,Assess appropriateness to release / publish data
+OP2878,Attest to the appropriateness of the data being released / published
+OP2637,Define conversion protocol(s) for data and information identified for release
+OP2770,Validate the eligibility of data for release (programs/sectors)
+OP2796,Provide support LoB in validating eligibility of data for release
+OP2188,Define accessible and reusable formats for Open Data
+OP2189,Format open data and information
+OP2830,Validate conformity to criteria for publication / release of data (Open Government Portal)
+OP2833,Validate conformity to criteria for publication / release of data (Except Open Government Portal)
+OP2831,Define criteria for the release of data on Open Government Portal
+OP2832,Define criteria for the release of data on non-OG platforms
+OP2823,Review and decision on data for release (Open Government)
+OP2824,Review and decision on data for release (Non-Open Government)
+OP2825,Submit request for OG publication
+OP2826,Submit request for non-OG publication
+OP2867,Submit request to be exempted of publishing on the Open Government Portal
+OP2868,Review and decision on Open Government Portal examption requests
+OP2190,Publish data on the Open Government Portal
+OP2828,Publish data on publication platforms (except Government Portal)
+OP2834,Expose metadata of released / published data to internal and external stakeholders
+OP2771,Define Data Lifecycle Agreement for data to be released
+OP2773,Update released data as per Data Lifecycle Agreement
+OP2921,Make data and information discoverable through the open government portal
+OP2846,Define clear roles and responsibilities for the released / published data
+OP2840,Identify legal requirements related the data being released or published
+OP2841,Attest to the legality of the release / publication of data
+OP2842,Analyse contractual requirements regarding data being released or published
+OP2843,Attest that the organization has the permission to release or publish a dataset
+OP2876,Attest that the release / publishing is compliant to policies and directives
+OP2894,Establish criteria to determine when to reuse or acquire new data to support departmental program or service
+OP2895,Establish data sharing protocols in alignment with Open Government and digital standards
+OP2850,Request documentation from data provider
+OP2851,Review and validate data provider's documentation
+OP2852,Confirm rights to use externally sourced data
+OP2631,"Define guidelines, procedure and templates for the creation of data sharing agreements"
+OP1982,Draft data sharing agreements
+OP1983,Establish DSA review and update process
+OP2090,Approve the data sharing agreements
+OP2091,Validate fit-for-purpose data
+OP1984,Monitor adherence to data sharing agreements
+OP2801,Communicate data sharing agreement to the commission
+OP2802,Communicate non-adherence to data sharing agreement to the commission
+OP2815,Communicate data sharing agreement to regulatory stakeholders
+OP2816,Publish a summary of data sharing agreement
+OP2822,Establish a data sharing contract or agreement for PI disclosure to a third party
+OP2912,Establish processes to enable data sharing and reuse
+OP2913,Develop data sharing and reuse policies and procedures that align with legal and regulatory requirements
+OP2914,Implement processes to enable data sharing and reuse
+OP2915,Establish data sharing governance structures and decision-making processes for datasharing and reuse
+OP2916,Adopt common data standards to enable effective sharing and reuse
+OP2917,Establish mechanism to leverage the Canadian Digital Exchange Platform (CDXP)
+OP2918,Establish inventory of common data elements for data sharing
+OP2919,Leverage the Digital Exchange Community of Practice (DXCoP)
+OP2920,Establish mechanism for conformity to official languages and accessibility requirements
+OP2931,Establish secure data sharing mechanisms
+OP2932,"Establish data privacy protocols for data interoperability, reuse, and sharing"
+OP2933,"Establish security controls for data access and storage for data interoperability, reuse, and sharing"
+OP2934,"Establish data protection measures for data interoperability, reuse, and sharing"
+OP2935,Enforce quality measures for data sharing including via API
+OP167,Define data literacy requirements for analytics
+OP168,Define a holistic data literacy training program
+OP169,Create a data literacy training program
+OP170,Train project team on data literacy
+OP171,Evaluate data literacy training
+OP256,Establish a data quality management program
+OP257,Communicate DQM function to all stakeholders
+OP258,Establish a data quality training program
+OP2160,Establish data quality implementation plan
+OP2161,Evaluate the effectiveness of the data quality implementation plan
+OP259,Define enterprise data quality role and responsibilities
+OP260,Manage a corporate list of data quality stakeholders
+OP261,Establish stakeholder engagement mechanisms
+OP262,Assign data quality roles
+OP263,Define mechanisms to review and evaluate DQM performance
+OP264,Conduct periodic assessment of the performance of the data quality organization
+OP265,Define a data quality management policy
+OP2158,Define data quality management standards
+OP2159,Define data quality management procedures
+OP266,Define a data quality management strategy
+OP2156,Approve the data quality strategy
+OP267,Periodically review DQM policy and strategy
+OP268,"Communicate DQ policy, strategy, standards and procedures"
+OP2157,Evaluate the effectiveness of the data quality strategy
+OP2627,Define guidelines to assess the reliability of data sources
+OP2998,"Establish and execute processes to validate, review, and approve data quality to meet operational needs."
+OP2999,Create data quality review and validation processes
+OP3000,Establish guidelines and measures for monitoring data quality
+OP269,Identify in-scope data quality industry standards
+OP270,Resolve gaps between enterprise policies and data quality industry standards
+OP271,Align enterprise policies with data quality industry standards
+OP272,Demonstrate compliance with enterprise policy and data quality standards
+OP273,Define business and technical data quality dimensions
+OP274,Define labelling standards 
+OP275,Define enterprise standards and requirements for data entry controls
+OP276,Map DQM Prodago Operating Practices to organizational policies and standards
+OP277,Periodically review mapping of Prodago DQM Operating Practices to organizational policies and standards
+OP278,Map DQM operating practices to corporate project deliverables
+OP279,Map DQM operating practices to analytics processes
+OP280,Create an Enterprise RACI for DQM operating practices
+OP2317,Create a project RACI for data quality management
+OP281,Define audit/assessment methodology DQM operating practices
+OP282,Self assess DQM operating practices by a project
+OP2314,"Attest that the DQ artefacts required for audit have been produced, approved and published"
+OP283,Conduct formal audit of DQM operating practices
+OP284,Plan and prioritize DQM operating practices improvements
+OP285,Execute DQM operating practices implementation or improvements initiatives
+OP286,"Design and implement DQM operating practices metrics, reports, and dashboards"
+OP287,Monitor DQM operating practices
+OP288,Define enterprise data quality risk tolerance 
+OP289,Approve the data quality Risk Tolerance Statement
+OP290,Communicate data quality risk tolerance statement to the organization
+OP291,Audit compliance to data quality risk tolerance statement periodically
+OP292,Define data quality risk assessment guidelines and procedures
+OP293,Define enterprise data quality risks taxonomy
+OP295,Communicate data quality risk framework
+OP296,Define triggering factors leading to reassessment of data quality risks
+OP297,Define triggering factors leading to review of data quality risk framework
+OP298,Train personnel on data quality risk assessment
+OP299,Periodically review data quality risks framework
+OP300,Define user permissions for data quality risk register
+OP301,Define guidelines and procedures for the data quality risk register
+OP302,Periodically review data quality risks and mitigation
+OP303,Define data quality risks assessment scope
+OP304,Assess and document data quality risks
+OP305,Re-assess risks based on triggering factors
+OP306,Categorize data quality risks in register
+OP307,Evaluate the data quality risk assessment process
+OP294,Define controls and metrics to measure data quality risks
+OP308,Define a mitigation plan for data quality risks
+OP309,Communicate mitigation strategies for data quality risks to stakeholders
+OP311,Update mitigation strategies based on ongoing monitoring/audit of data quality risks
+OP312,Identify data quality risk reporting requirements
+OP313,Define reporting and disclosure guidelines for data quality risks
+OP314,Establish the data quality risk reporting structure
+OP315,Produce data quality risks reports
+OP316,Communicate data quality risks and mitigation to stakeholders
+OP319,Monitor data quality risks
+OP320,Escalate data quality risks
+OP321,Monitor internal factors impacting data quality risks & factors
+OP322,Monitor external factors impacting data quality risks
+OP323,Monitor controls and metrics for data quality risks
+OP324,Update the risk register based on ongoing monitoring of data quality risks (Triggered)
+OP325,Update the risk taxonomy based on ongoing monitoring of data quality risk factors
+OP326,Audit implementation and effectiveness of data quality risk mitigation strategies
+OP330,"Define ""fit-for-use"" data quality requirements"
+OP2299,"Define ""in the lab"" data quality requirements"
+OP331,"Define ""in the field"" data quality requirements"
+OP2865,Define data quality requirements
+OP332,Validate data quality requirements
+OP2304,"Communicate ""In the lab"" DQ requirements to data producers"
+OP2306,Align data quality requirements with organizational standards
+OP2154,Prioritize data quality requirements
+OP333,Approve the data quality requirements by relevant stakeholders
+OP334,Communicate data quality requirements to relevant stakeholders
+OP335,Attest that data quality requirements have been documented and are approved
+OP336,Define data discovery guidelines and procedures
+OP2301,Establish model data quality assessment processes
+OP337,Define data profiling (fit-for-use) guidelines and procedures
+OP338,Define data quality assessment (fit-for-purpose) guidelines and procedures
+OP1745,Define roles and responsibilities for data profiling
+OP1746,Establish a classification schema for data profiling anomalies
+OP1714,Establish provisions of training on data profiling principles
+OP339,Define metadata quality assessment guidelines and procedures
+OP340,Define dataset quality assessment guidelines and procedures
+OP341,Conduct periodic assessment of data quality assessment processes
+OP342,Define data discovery scope
+OP343,Execute data discovery sessions (In the lab)
+OP1622,Identify data proxies
+OP345,Communicate data discovery results to relevant stakeholders
+OP2628,Assess the reliability of data sources
+OP346,Define data profiling scope
+OP347,Establish the capability to profil data (all DQ Dimensions)
+OP348,Profile in-scope data 
+OP349,Analyze and interpret profiling results
+OP350,Collect and historize profiling results
+OP351,Communicate data quality assessment results to relevant stakeholders
+OP2889,Establish processes to validate data quality from internal and third party sources
+OP2760,Assess availability of data
+OP2761,Validate data availability for intended purposes
+OP352,Define DQ assessment scope 
+OP353,Define DQ assessment parameters and assessment scores
+OP1620,Assess quality of data sources (In the lab)
+OP2402,Assess quality of data in targeted operational environment
+OP2312,Evaluate the existing data quality against data quality requirements
+OP354,Assess data quality using data profiling outputs
+OP355,Assess data quality using means other than data profiling
+OP356,Communicate data quality assessment results to relevant stakeholders
+OP1901,Validate data quality against requirements
+OP1621,Demonstrate data suitability for model
+OP357,Assess metadata quality
+OP358,Establish committees required to assess quality of training dataset
+OP359,Assess training dataset quality
+OP360,Periodically review and update the training dataset
+OP2483,Define guidelines and procedures to determine and specify pipeline quality decision control points
+OP2484,Validate pipeline quality decision control points
+OP2485,Implement pipeline quality decision control points
+OP2486,Establish processes to address and resolve deviations in pipeline quality
+OP2479,Define quality requirements and criteria for the pipeline
+OP2480,Define Pipeline Quality Indicators  
+OP2481,Define pipeline quality decision control points  
+OP2482,Validate and approve Pipeline Quality Indicators
+OP2487,Document pipeline quality evaluation
+OP2488,Create an escalation process for pipeline quality deviations
+OP2489,Define processes for conducting root-cause analysis of pipeline quality
+OP2490,Document and communicate the root-cause affecting the pipeline quality
+OP2491,Conduct periodic audit of pipeline quality decision control points
+OP2492,Implement pipeline quality monitoring
+OP2493,Document pipeline quality assessments
+OP2494,Validate produced pipeline quality artefacts
+OP2495,Assess Pipeline Quality Monitoring operating practices
+OP2162,Define data specifications and work instructions
+OP2163,Execute Data Processing
+OP369,Define formatting and cleansing requirements for operational inputs
+OP370,Define guidelines and procedures to cleanse data
+OP1579,Define reference data for cleansing context
+OP371,Format and cleanse data (Training dataset input)
+OP2403,Design and implement data formatting and cleansing processes (Operational inputs)
+OP2164,Log Data Processing activities
+OP372,Define data entry quality controls
+OP2322,Establish guidelines to define and implement DQ control points
+OP2323,Implement DQ controls at entry points into the AI system
+OP373,Implement quality controls to prevent data entry errors
+OP374,Define guidelines and procedures to manage data quality issues
+OP375,Define procedures for managing a data quality issues repository
+OP376,Define procedures to assess the impacts of data quality issues
+OP377,Define procedures to assess the root causes of data quality issues
+OP378,Establish data quality resolution procedures and processes
+OP379,Establish a data quality issues repository
+OP380,Establish a capability to track and document data quality issues
+OP381,Record data quality issues in DQ issue repository
+OP2405,Document data quality issues
+OP382,Review and approve data issues logged into repository
+OP383,Categorize data issues logged in repository
+OP384,Monitor data issues logged in repository
+OP385,Notify relevant data stakeholders of data issues
+OP386,Re-assess impacts of data quality issues periodically
+OP387,Assess and document potential impacts of data issues on model building
+OP388,Assess and document potential impacts of data issues on models in production
+OP390,Monitor impacts of data quality issues
+OP391,Attest that data issue impacts have been assessed
+OP392,Assess and document root causes of data quality issues
+OP394,Report data quality root causes
+OP395,Define roles and responsibilities specific to the resolution of data quality issues
+OP396,Prioritize data issues to be resolved (Enterprise)
+OP2197,Prioritize data issues to be resolved
+OP1623,Track quality issues in model development data
+OP397,Assign data quality issues for analysis & resolution
+OP398,Define SLA for data quality issue resolution
+OP2025,Define data quality remediation plan
+OP399,Resolve data quality issues impacting a project
+OP400,Report data issues resolution
+OP401,Attest that data quality issues have been resolved
+OP2582,Define operational data quality metrics and controls  
+OP2583,Design and implement data quality metrics and controls
+OP402,Define required data quality metrics
+OP2300,Define model data quality metrics
+OP2305,Validate model data quality metrics
+OP403,Define thresholds for each data quality metric
+OP404,Approve the data quality metrics and thresholds
+OP406,Define processes to communicate data quality metrics and thresholds 
+OP407,Develop a business case justifying data quality controls
+OP408,Define and design required data quality controls
+OP409,Review and approve data quality control design
+OP410,Document data quality controls
+OP411,Implement data quality controls in source systems
+OP412,Attest that data quality controls have been built and deployed
+OP413,Establish a data quality controls repository
+OP2307,Establish data quality rubrics
+OP414,Define guidelines and procedures to manage a data quality control repository
+OP415,Define guidelines and procedures to monitor data quality 
+OP416,Define escalation procedures for poor data quality
+OP417,Operationalize DQ controls
+OP418,Operationalize DQ metrics
+OP419,Operationalize DQ issues management
+OP420,Operationalize data transformation processes
+OP421,Periodically review DQ assessment efficiency
+OP2201,Periodically review data quality issues register
+OP422,Periodically review DQ metrics & controls 
+OP423,Evaluate the efficiency of data quality controls
+OP1580,Monitor data quality integrity
+OP424,Produce enterprise data quality dashboards
+OP425,Produce periodic data quality dashboards (in context)
+OP426,Execute data quality reports for all enterprise data
+OP427,Execute data quality reports for specific name screening business rule
+OP428,Execute quality reports on specific customer data business rules
+OP429,Execute data quality reports for the TM & F Programs
+OP2055,Attest that data quality is managed and adequate for the context
+OP1748,Define roles and responsibilities for reference data management
+OP1749,Document existing valid values
+OP1750,Establish rules for new reference data values
+OP1751,Assess proposed new value to reference data
+OP1752,Document new value addition to reference data
+OP1753,Detect unauthorized use of new reference data
+OP1754,Harmonize reference data values across systems 
+OP430,Define guidelines and procedures to create master data
+OP431,Define master data management processes
+OP432,Enterprises set standards for the definition of unique identifiers for master data
+OP1757,Establish standardized values across the organization
+OP1758,Establish external sources for data enrichment
+OP1760,Establish a protocol to manage exceptions in the master data
+OP1755,Establish identity resolution process
+OP433,Resolve master data duplicates (In the field - Operational Inputs)
+OP2404,Resolve master data duplicates (In the lab)
+OP1576,Define a matching process within Master data
+OP1577,Define survivorship process within Master Data
+OP1578,Document created data within master data
+OP1756,Monitor Master data management
+OP2133,Define the sensitivity of the golden copy to false positive/negative
+OP2134,Identify master data identifying attributes
+OP2135,Map unique identifiers to physical data
+OP2137,Analyze potential identifying attributes
+OP2138,Standardize and cleanse data 
+OP2139,Compile recordset from source systems
+OP2140,Enrich records with reliable external sources
+OP2141,"Establish a ""golden copy"" for master data records"
+OP2142,Review and approve golden copy results
+OP2143,Establish mechanism to monitor usage of golden copy
+OP1759,Establish survivorship business rules
+OP2144,Identify sources for master data attributes
+OP2145,Assign source priorities and conditions
+OP2146,Identify master records with conflicting attribute values
+OP2147,Apply the attribute value conflict resolution rules
+OP2148,Resolve master record with specified attribute values
+OP2149,Establish mechanism to detect & report MDM exceptions
+OP2150,Analyze the root cause of MDM exceptions
+OP2151,Resolve master data exception
+OP2152,Update MDM data processing documentation
+OP2153,Update MDM/DQ exception rules
+OP255,Identify and define authoritative data sources for Master data
+OP1571,Identify and define authoritative data sources for Reference data
+OP1572,Identify and define authoritative data sources for Transactional data
+OP1573,Communicate authoritative data sources to relevant stakeholders
+OP2361,Attest that authoritative data sources are being used
+OP193,Assess data sources prior to usage
+OP2869,Request exemption to not use authoritative data sources
+OP2870,Review and make decision of authoritative source exemption
+OP434,Define privacy vision and mission statement
+OP435,Define enterprise privacy principles and standards
+OP436,Establish privacy policy suite
+OP437,Define enterprise codes of conduct to protect privacy
+OP438,"Define privacy requirements for external contractors, vendors, and service providers"
+OP439,Approve the enterprise privacy policies and procedures
+OP2595,Define enterprise confidentiality policy for personal information
+OP440,Communicate enterprise privacy policies
+OP441,Publish privacy policy suite on website
+OP442,Develop a privacy program
+OP2620,Create an enterprise privacy accountability matrix (RACI)
+OP443,Identify a privacy program sponsor or “champion”
+OP444,Allocate an appropriate budget and resources
+OP445,Designate one or more individuals to be responsible for privacy-related obligations
+OP446,Establish a committee on the protection of personal information
+OP2590,Establish a committee on the access to information and protection of personal information
+OP447,Establish a committee on access to information
+OP448,Establish the privacy program reporting structure
+OP449,"Establish a review & approval process when designing new initiatives, services, or programs using personal data"
+OP450,Assistance with building privacy requirements into a project to help reduce risks
+IR,Assistance with the development of privacy-related processes
+OP451,Assistance with the development of privacy-related processes
+OP452,Develop capabilities to ensure privacy-related processes and privacy requirements are followed
+OP453,Define privacy program controls
+OP454,Define privacy program metrics
+OP455,Monitor and report privacy incidents and data subject requests
+OP456,Periodically review privacy management guidelines and procedures
+OP457,Demonstrate effective monitoring of privacy requirements
+OP2625,Define guidelines to inform stakeholders about PI usage and risks
+OP458,Choose enterprise privacy risk model
+OP459,Define enterprise privacy risk taxonomy
+OP460,Define privacy risk assessment process
+OP461,Design privacy risks reporting template
+OP462,Periodically review privacy risk management guidelines and procedures
+OP463,Define enterprise appetite to privacy risks
+OP464,Approve the Privacy Risk Appetite Statement
+OP465,Communicate Privacy Risk Appetite Statement to personnel
+OP466,Audit compliance to Privacy Risk Appetite periodically
+OP467,Define user permissions for privacy risk register
+OP468,Define guidelines and procedures for the privacy risk register
+OP469,Document and categorize privacy risks in register
+OP470,Periodically review privacy risks and mitigation
+OP471,Conduct periodic assessment of privacy risks in each business line
+OP472,Identify privacy risks in projects
+OP473,Define triggering factors leading to reassessment of privacy risks
+OP474,Re-assess privacy risks based on triggering factors (Triggered)
+OP475,Manage the privacy risks register
+OP476,Attest that privacy risks have been identified and scored
+OP477,Define mitigation plan for privacy risks
+OP478,Implement a privacy risks mitigation strategies (Not specific enough)
+OP479,Communicate privacy risks and their mitigation strategies to key stakeholders
+OP481,Define reporting and disclosure guidelines for privacy risks
+OP482,Produce privacy risks reports (Enterprise)
+OP483,Communicate privacy risks to internal stakeholders (Enterprise)
+OP2362,Produce privacy risks reports
+OP2363,Communicate privacy risks to stakeholders (Project)
+OP2052,Approve that residual privacy risks are acceptable
+OP484,Monitor privacy risks on an ongoing basis
+OP485,Define guidelines to escalate privacy risks 
+OP486,Escalate privacy risks
+OP487,Monitor internal & external factors impacting privacy risks
+OP488,Monitor internal & external factors impacting privacy risks
+OP489,Update the risk register based on ongoing monitoring of privacy risk factors (Triggered)
+OP490,Audit implementation and effectiveness of risk responses
+OP491,Identify privacy and data protection laws and regulations
+OP492,Identify legal requirements related to personal information 
+OP2364,Identify privacy and data protection laws and regulations applicable to the project
+OP2365,Identify legal requirements related to personal information (Project)
+OP552,Identify project obligations and requirements related to data subject rights and requests
+OP493,Resolve gaps between enterprise policies and privacy obligations
+OP494,Demonstrate that data processing is aligned with privacy regulations
+OP495,Align enterprise policies with privacy obligations
+OP496,Define monitoring activities to comply with privacy requirements  
+OP497,Monitor for new or amended privacy laws and regulations 
+OP498,Define review trigger based on new or amended privacy laws and regulations
+OP499,Update enterprise privacy policies to align with new or amended laws and regulations
+OP500,Communicate modified enterprise privacy policies to relevant stakeholders
+OP501,Monitor internal compliance to privacy requirements
+OP502,Demonstrate compliance with privacy regulations
+OP2366,Demonstrate project compliance with privacy regulations
+OP2367,Monitor project compliance to privacy laws and regulations
+OP503,Demonstrate compliance with accountability principle (GDPR)
+OP504,Monitor vendors and service providers' compliance
+OP505,Periodically perform a privacy compliance audit
+OP506,Escalate non-compliance / violation of privacy policies
+OP507,Identify remediation plan for non-compliance/violation
+OP508,Monitor remediation plans for non-compliance/violation
+OP509,Demonstrate of remediation of non-compliance/violation
+OP510,Define organizational privacy strategy  
+OP511,Identify and engage privacy stakeholders and internal partnerships
+OP512,"Provide access to and communicate privacy mission and vision statement, policies, directives and code of conduct"
+OP2813,Communicate the legal and admisntrative consequences of non compliance to privacy practices guidelines
+OP2837,Communicate compliance requirements to internal stakeholders
+OP513,"Train personnel on required practices related to PI collection, use, handling, access, retention, and disclosure"
+OP515,Attest that privacy training has been provided
+OP516,Attest personnel understanding and agreement to comply to privacy requirements
+OP517,Train personnel to identify and report non-compliance with privacy policies
+OP518,Train personnel for management of privacy breach
+OP2382,Train project team for prevention and response to privacy breaches
+OP519,Attest personnel understanding of privacy breach requirements
+OP520,Attest that privacy breach training has been provided
+OP521,Define roles and responsibilities for inquiries related to privacy practices
+OP522,Communicate privacy roles & responsibilities to personnel
+OP523,Train project team on compliance with legal requirements
+OP524,Train project team on data subject rights
+OP525,Monitor personnel training on data subject inquiries
+OP2593,Designate point of contact to assist individuals understand consent requirements
+OP526,Identify consent obligations and requirements (project)
+OP527,Prohibit mandatory consent for provision of product/service
+OP528,Demonstrate that mandatory consent is reasonable
+OP529,Define enterprise consent policy and guidelines 
+OP530,Establish a process to collect consent for each specific and new use of personal information
+OP531,Select consent type appropriate for identified purposes 
+OP532,Develop consent forms and enterprise privacy notice templates
+OP2395,Define consent form specific to intended purposes of project
+OP533,Communicate data collection purposes to data subjects
+OP2397,Design and implement mechanisms to collect consent
+OP535,Collect consent for disclosing personal data to third-party
+OP536,Collect consent for new processing purposes
+OP537,Attest that consent is being collected for each identified purpose
+OP538,"Demonstrate express consent for collecting, processing and disclosing sensitive data"
+OP539,Assist data subject to understand consent scope
+OP2814,"Collect consent for personal information collection, processing or disposal"
+OP2591,Develop consent forms and privacy notice templates for the collection of personal information from parents and guardians of minors
+OP2592,Establish a process to collect consent for the use of personal information of minors
+OP541,Obtain parental/guardian authority consent to use personal information of minors
+OP542,Verify whether child consent is given by holder of parental/guardian responsibility
+OP543,Attest that consent is not collected from a child 
+OP544,Attest that child consent is obtained from a valid representative
+OP546,Communicate to data subjects their right to withdraw consent from PI use
+OP547,Design and implement mechanisms for withdrawal of consent
+OP1888,Attest that consent withdrawal is managed
+OP549,Audit consent processes
+OP550,Monitor transparent collection purpose
+OP551,Record legal basis for consent
+OP1883,Approve the Consent strategy (project)
+OP1884,Attest that privacy notice was provided to data subject 
+OP1885,Attest that data subject can restrict processing
+OP1886,Attest that data subject can opt out from automated decision
+OP1887,Attest that data subjects are informed of automated decision
+OP1889,Attest that right to be forgotten is managed in context
+OP1890,Attest that data subject is informed of AI usage
+OP553,Define guidelines and procedures to receive and process data subject requests
+OP554,Define roles and responsibilities for the processing of data subject requests
+OP555,Define communication procedures and messages in response to data subject requests 
+OP556,Define recording procedures of the processing of data subject requests
+OP557,Establish submission methods for data subject requests
+OP2368,Assess the impacts of data subject requests on developed solutions
+OP2369,Strategize and plan project activities related to data subject requests
+OP558,Define the identity assurance level requirements for data subject requests
+OP559,Define identity verification procedures
+OP2809,Communicate receipt of personal information request
+OP560,Provide support in preparing a request to the organization
+OP561,Receive / Detect data subject request
+OP562,Verify data subject identity upon receiving request
+OP563,Assess the legal grounds to accept/deny data subject requests
+OP564,Assess sensitivity of personal information subject to data subject request
+OP565,Review and approve request refusal 
+OP566,Record enterprise decisions regarding data subject request
+OP567,Confirm that the data subject request was processed successfully
+OP568,Communicate enterprise decision regarding data subject request
+OP569,Operationalize processing of data subject requests
+OP570,Track data subject request response times
+OP571,Review identity verification procedures & requirements
+OP572,Review communication procedures and messages to data subject 
+OP573,Review obligations regarding data subject requests periodically
+OP574,Define Privacy Notice (enterprise)  
+OP575,Approve the Privacy Notice
+OP576,Publish Privacy Notice on website
+OP577,Update Privacy Notice
+OP2626,Define Privacy Notice (project)  
+OP578,Communicate Privacy Notice to data subjects
+OP579,Communicate privacy rights to data subjects
+OP580,Communicate request submission methods
+OP581,Establish a process to obtain consent for the use of personal information at the source of collection
+OP582,Communicate personal information processing purposes
+OP583,Communicate collection methods to data subjects
+OP584,Communicate categories of personal information collected
+OP585,Communicate the sources from which personal information is collected
+OP586,Communicate new personal information processing purposes
+OP587,Communicate categories of personal information collected from third parties
+OP588,Communicate commercial purposes for personal information collection
+OP589,Communicate personal information retention schedule
+OP590,Communicate use of technology for personal information processing
+OP591,Communicate categories of third parties to whom personal information will be disclosed
+OP592,Communicate foreseeable consequences of personal information processing
+OP593,Communicate (automated) decision
+OP599,Communicate the potential consequences of automated processing for data subject
+OP4013,Inform affected individuals about the process to rectify the personal information used to render a decision 
+OP4014,Provide privacy notice and policies to individuals at the source of collection 
+OP4015,"Provide privacy notice related to the use of technology that can identify, locate or profile individuals"
+OP4016,Provide privacy notice related to the use of automated decision-making at the time of decision-making
+OP4017,Provide privacy notice and information related to privacy policies to affected individuals 
+OP4018,Provide the designated point of contact to assist individuals to understand consent requirements
+OP4019,"Establish capabilities to provide reasons, principal factors and parameters that led to an automated decision to affected individuals"
+OP4010,Provide the designated point of contact for inquiries related to the use of automated decision-making systems
+OP4011,Provide the designated point of contact to request access or modifications to personal information
+OP4008,"Designate point of contact to manage requests to access, delete or modify personal information"
+OP4009,Develop privacy impact assessment guidelines and templates
+OP4020,Develop data sharing agreement guidelines and templates
+OP4012,Provide details on the use of automated decision-making systems to render a decision  
+OP2805,Disclose to applicant that the unfavorable decision is based on consultation of financial reports
+OP600,Define project strategy to restrict personal information processing
+OP601,Implement procedures to restrict personal information processing
+OP602,Demonstrate that PI processing is restricted
+OP603,Communicate PI restriction/unrestriction to data subjects
+OP604,Establish mechanisms to stop PI processing following objection
+OP2372,Implement mechanisms to stop personal information processing following objection
+OP605,Cease personal information processing as requested by data subject
+OP606,Cease personal information processing for marketing purposes
+OP607,Define the position regarding AI opt-out option  
+OP608,Establish an AI opt-out mechanism for data subjects
+OP609,Establish procedures to receive & process requests to opt-out
+OP610,Communicate opt-out option to data subjects concerning the use of AI
+OP612,Monitor requests to opt-out from AI usage
+OP613,Establish an automated decision opt-out mechanism for data subjects
+OP614,Define procedures to intervene in automated decision-making process
+OP615,Communicate opt-out option to data subjects concerning decisions based on automated processing
+OP616,Remove data subjects from automated decision-making
+OP617,Attest that decision is not based solely on automated processing
+OP618,Monitor requests to opt-out from automated decision-making
+OP619,Periodically review opt-out processes 
+OP594,Define notification message for data subjects following decision based on automated processing  
+OP595,Communicate rendered decision based on automated personal information processing
+OP2705,Designate a point of contact for all inquiries related to the use of automated decisions
+OP1835,Define procedures to process requests concerning automated decisions
+OP596,Communicate personal information used to render decision to data subject
+OP597,"Communicate reasons, principal factors, and parameters that led to decision to data subject"
+OP598,Communicate the right to rectification of personal information used to render decision
+OP620,Define guidelines to assess and monitor the quality of personal information
+OP621,Identify inaccurate personal information
+OP622,Correct or erase inaccurate personal information
+OP623,Record that inaccurate personal information is corrected or erased
+OP624,Define procedures and mechanisms to rectify personal information
+OP2379,Implement mechanisms to rectify personal information
+OP625,Rectify personal information as requested by data subject
+OP626,Record that personal information has been rectified
+OP627,Transmit rectified personal information to stakeholders
+OP628,Communicate rectified PI to third party to which the PI had been disclosed
+OP2703,Establish a procedure to receive and process requests to access personal information
+OP2704,"Establish a process to communicate the requirements related to the release, modification, or deletion of personal information"
+OP629,Define formats to provide personal information to data subjects
+OP630,Establish enterprise procedures to retrieve and transfer personal information
+OP631,Communicate personal information existence to data subject
+OP632,Communicate the cost for access to personal information
+OP633,Transmit personal information copy to data subject
+OP634,Transmit personal information in alternative format to data subject
+OP1821,Define roles and responsibilities for data portability requests
+OP635,Establish interoperable formats for data portability
+OP1819,Identify portable data scope
+OP1820,Establish procedures to extract portable data from systems
+OP2570,Design and implement mechanisms to locate and retrieve personal information from systems
+OP636,Establish procedures to transfer portable data to data subjects
+OP1822,Train personnel for data portability request processing
+OP1823,Test data portability process
+OP1824,Extract portable data concerning specific data subject
+OP1825,Format personal information for data portability
+OP1826,Validate personal information to be transferred for portability request
+OP637,Transmit personal information for data portability
+OP638,Attest the compliance to data portability request
+OP1827,Define roles and responsibilities for requests to be forgotten
+OP1828,Define personal information exemption list for requests to be forgotten  
+OP639,Define procedures to erase personal information
+OP2371,Implement mechanisms to erase personal information
+OP643,Define procedures to cease dissemination of personal information
+OP646,Define procedures to dereference personal information
+OP1829,Train personnel for requests to be forgotten
+OP1830,Test personal information erasure procedures
+OP1836,Identify personal information subject to erasure request
+OP1831,Assess whether personal information can be erased
+OP640,Erase personal information as requested by data subject
+OP641,Confirm personal information erasure to data subject
+OP642,Record that erasure of personal information has been performed
+OP1832,Identify personal information subject to request to cease dissemination
+OP1833,Assess whether personal information dissemination can be ceased
+OP1834,Tag personal information subject to request to cease dissemination
+OP644,Cease personal information dissemination
+OP645,"Store personal information in ""Do not disseminate"" system"
+OP647,De-reference personal information
+OP648,Record that personal information is de-referenced
+OP649,Communicate erasure requests to third parties to which PI has been disclosed
+OP650,Demonstrate transmission of erasure request to third parties
+OP651,Communicate erasure request refusal to data subject
+OP652,Demonstrate that erasure refusal is permitted by law
+OP653,Define guidelines for refusing rectification requests
+OP654,Communicate rectification request refusal
+OP655,Record substance of unresolved rectification challenge 
+OP656,Retain personal information subject to denied rectification request
+OP657,Define communication requirement and guidelines for refusal of individual access to PI
+OP658,Communicate access/rectification request refusal
+OP659,Retain personal information subject to refused access request
+OP660,Provide support to understand access request refusal
+OP661,Define guidelines for refusing restriction requests
+OP662,Refuse request to restrict personal information processing
+OP663,Demonstrate that continued processing of PI subject to objection is lawful
+OP665,Designate accountable individual for complaint management
+OP666,Establish complaint procedures for data subjects
+OP667,Establish procedures to receive and process data subject complaints
+OP668,Communicate complaint procedures to data subjects
+OP669,Investigate data subject complaints
+OP670,Amend privacy policies and practices following a complaint
+OP671,Monitor complaints related to personal information processing
+OP672,Define enterprise guidelines related to decision challenges
+OP673,Authorize challenge of decision for clients
+OP664,Record disagreements between organization and individuals on PI amendments
+OP674,Define enterprise guidelines and procedures to collect personal information 
+OP675,Define enterprise guidelines and procedures to document personal information collection purposes
+OP676,Define enterprise guidelines and procedures to handle and process personal information 
+OP677,Define enterprise guidelines and procedures to process special categories of data
+OP678,Define enterprise guidelines and procedures to process data related to criminal convictions
+OP679,Define enterprise guidelines and procedures to ensure lawful disclosure of personal information
+OP680,Define guidelines and procedures to allow transfer of PI to a third party
+OP681,Define enterprise guidelines and procedures to retain personal information
+OP682,Define enterprise guidelines and procedures to destroy personal information
+OP683,Define enterprise guidelines and procedures to anonymize personal information
+OP684,Define enterprise guidelines and procedures to cross-link/combine data sets containing personal information
+OP685,Approve the enterprise guidelines and procedures related to personal information
+OP686,Assign roles and responsibilities for managing personal information across its lifecycle
+OP687,Establish training about enterprise guidelines and procedures for handling personal information
+OP688,Communicate personal information management directives to relevant stakeholders
+OP2629,Define guidelines and procedures for accessing personal information
+OP2818,Communicate to internal stakeholders activities or programs involving the use of PI in a decision process
+OP2821,"Establish monitoring mechanism for access , use or disclosure of PI"
+OP1691,Establish guidelines for personal information processing for web analytics
+OP1699,Draft Web analytics section for Privacy Notice
+OP1692,Limit personal information processing to Web analytics purposes
+OP1725,Prohibit profiling with personal information collected for Web analytics
+OP1727,Establish retention schedule for IP addresses
+OP1695,De-identify personal information prior to transfer and/or processing
+OP1726,Establish contractual requirements for transfer of personal information used for Web analytics
+OP1696,Approve the third-party depersonalization techniques
+OP1728,Monitor personal information processing for Web analytics
+OP689,Identify in-scope requirements related to processing purposes
+OP690,Enterprises define acceptable processing purposes for collecting personal information
+OP691,Identify personal information necessary for processing purpose
+OP692,Approve the personal information to be collected for specified processing purposes
+OP693,Define processing purpose prior to collecting personal information
+OP694,Approve the processing purpose prior to collecting personal information
+OP695,Define new purpose for processing personal information  
+OP696,Approve the new processing purpose prior to the processing of personal information
+OP697,Verify that processing purpose is compatible with enterprise legal obligations and position
+OP698,Review personal information required to fulfill purposes when new purposes are approved
+OP699,Define guidelines and procedures to limit collection of personal information to approved purposes
+OP700,Obtain agreement from authorities to collect personal information
+OP701,Limit personal information collection to processing purposes
+OP1881,Attest that the collection of personal information is limited to approved purposes
+OP2797,Attest that only the necessary personal information is collected
+OP2835,Validate legal authority for the collection of PI
+OP702,Define enterprise guidelines on the granularity of PI
+OP703,Justify usage of high granularity personal information
+OP704,Evaluate alternative data of lower granularity
+OP705,Define lower granularity alternatives for personal information
+OP1880,Approve the personal information collection and usage
+OP706,Provide personal information collection purposes to third-party
+OP707,Attest that personal information collected by third party is limited to what is necessary for specified purposes
+OP708,Attest that consent was obtained for third-party personal information collection
+OP709,Record source of personal information collection
+OP2798,Attest that unconsented data collection from a third-party is lawful
+OP710,Attest that personal information disclosure is not mandatory for data subjects
+OP711,Attest that mandatory personal information collection is permitted by law
+OP2804,Determine the requirements for personal information collection specific to a request for goods or services
+OP712,Define guidelines and procedures to limit usage of personal information to approved purposes
+OP713,Attest that the processing of personal information is limited to approved purposes
+OP2800,Monitor compliance to guidelines on limiting usage of personal information to approved purposes
+OP714,Define guidelines for personal information processing without consent
+OP715,Approve the personal information processing without consent
+OP716,Record personal information processing without consent
+OP717,Define guidelines and procedures to update personal information
+OP718,Identify personal information update requirements
+OP719,Create a personal information update schedule
+OP720,Update personal information
+OP721,Record personal information updates
+OP722,Define guidelines and procedures to limit disclosure of personal information to approved purposes
+OP723,Record personal information disclosure recipients
+OP724,Monitor compliance to guidelines on information disclosure
+OP725,Attest that required consent is obtained when disclosing personal information
+OP726,Provide access to unconsented disclosure register
+OP727,Attest that disclosure of PI is necessary to fulfill intended purposes
+OP728,Communicate the personal information disclosure recipients
+OP729,Communicate categories of PI that have been disclosed
+OP730,Communicate the safeguards used for the PI transfer to data subjects
+OP2707,Complete written agreement for release of personal information for study or research purposes
+OP2598,Ensure all written agreements are sent to the Commissioner
+OP731,Define guidelines for personal information disclosures without consent
+OP732,Approve the personal information disclosures without consent
+OP733,Record unconsented personal information disclosure
+OP734,Review unconsented personal information disclosures periodically
+OP735,Define guidelines and procedures to transfer personal information
+OP736,Define security safeguards for personal information transfers
+OP737,Define standard data transfer format
+OP738,Draft contract for personal information transfers to third parties
+OP739,Communicate enterprise policies & applicable regulations to third party
+OP740,Approve the contract for personal information transfers to third parties
+OP741,Attest signed contract for personal information transfer
+OP742,Audit third party compliance periodically
+OP743,Attest that third party is compliant to personal information transfer contract
+OP2836,Complete written agreement for transferring control of personal information to a third party
+OP744,Implement PI data transfer between parties SLA
+OP745,"Define, approve, and review PI data transfer SLA"
+OP746,"Review, update, and attest SLA validity"
+OP747,Design technical mechanisms to extract personal information from systems
+OP748,Extract personal information for portability request
+OP749,Obtain agreement (from authorities) to release personal information
+OP750,Define roles and responsibilities for international PI transfer oversight
+OP751,Assess whether PI transfer is outside the geographical scope of regulation
+OP752,Assess whether PI is necessary to fulfill transfer purposes
+OP753,Assess whether adequacy decision applies to transfer
+OP754,Assess whether appropriate safeguards are implemented for PI transfer
+OP755,Assess whether exception applies to transfer
+OP756,International transfer of personal information
+OP757,Demonstrate lawful international PI transfer
+OP758,Attest that standard data transfer format usage is used
+OP4001,Provide contact information of the designated individuals responsible for the protection of personal information to the Commissioner
+OP4002,Create a register of confidentiality incidents to log breaches and measures taken
+OP759,Assess privacy-related factors before disclosing personal information
+OP760,Assess sensitivity of information to be disclosed
+OP761,Assess purposes for which PI is to be used once disclosed
+OP762,Assess protection measures that will be applied to PI once disclosed
+OP763,Assess the applicable legal framework in the state where PI is to be disclosed
+OP4003,Complete written agreement for release of personal information without consent of the person concerned
+OP4004,Conduct privacy impact assessment for the release of personal information without consent of the person concerned
+OP4005,Complete written agreement for release of personal information outside of Quebec
+OP2706,Conduct privacy impact assessment for personal information used for study or research purposes without consent of the person concerned
+OP2594,Conduct privacy impact assessment for personal information collected as part of a survey
+OP4006,Conduct privacy impact assessment for the release of personal information outside of Quebec
+OP4007,Conduct privacy impact assessment for technology applications that use personal information
+OP764,Assess privacy-related factors before disclosing PI without consent
+OP765,Assess whether intended objective can be achieved with de-identified information
+OP766,Assess whether obtaining consent from person concerned is reasonable
+OP767,Assess whether intended objective outweighs impact of releasing PI without consent
+OP768,Assess whether PI will be used in a manner to ensure its confidentiality
+OP769,Create a personal information retention schedule
+OP770,Deploy PI retention controls
+OP771,Review personal information retention schedule periodically
+OP772,Attest that personal information retention is limited to processing purposes
+OP1882,Document personal information retention schedule for project
+OP773,Assess whether retention schedule requires modification
+OP774,Modify personal information retention period for new requirements
+OP2051,Modify PI retention schedule when new business terms are created or used
+OP775,Approve the modifications to PI retention schedule
+OP776,Communicate modification of PI retention schedule to data subject
+OP777,Store all PI that permits identification of person concerned
+OP778,Store all PI relevant to decision-making concerning a person
+OP779,Review personal information retention periodically
+OP780,Operationalize identification of PI that has fulfilled its purpose
+OP781,Destroy (or anonymize) personal information
+OP782,Demonstrate that PI is properly destroyed (or anonymized)
+OP783,"Attest that the analytics project is compliant with the ""Ethic Guidelines for Retention of Ethical sensitive Data"""
+OP784,Periodically review and update privacy management directives
+OP785,Audit privacy management directives
+OP786,Audit operational compliance to privacy management directives periodically
+OP787,Monitor processing purposes for collecting PI
+OP788,Verify lawful processing of personal information periodically
+OP789,Demonstrate lawful processing of personal information
+OP790,Periodically review personal information required to fulfill specified purposes
+OP791,Demonstrate that processing of special categories of PI is permitted by law
+OP792,Monitor special categories of personal information usage
+OP793,Attest that unconsented data collection is permitted by law
+OP794,Attest that processing of personal information without consent or knowledge is permitted by law
+OP795,Attest that personal information transfer without knowledge or consent is permitted by law
+OP796,Attest that disclosure of personal information without consent or knowledge is permitted by law
+OP797,Record all situations where personal information was disclosed without consent
+OP798,Notify data subject of personal information disclosure without consent or knowledge
+OP2623,Establish guidelines and procedures to handle PI requests from external organizations
+OP799,Establish privacy breach management processes
+OP800,Implement privacy breaches remediation plans and procedures
+OP2597,Establish enterprise privacy breach response policies and procedures
+OP801,Define privacy breach containment strategies  
+OP802,Establish preliminary assessment procedures
+OP803,Establish full assessment procedures
+OP804,Define privacy breach reporting structure  
+OP805,Define privacy breach reporting procedures  
+OP2817,Establish third party coordination processes for privacy breach management
+OP806,Define mitigation strategies for privacy breach
+OP807,Implement mitigation strategies for privacy breach
+OP808,Define required prevention strategies for privacy breach
+OP809,Implement prevention strategies for privacy breach
+OP2054,Attest that Privacy breach prevention strategy is implemented
+OP810,Analyze privacy breach trends periodically
+OP811,Identify breach scope and type
+OP812,Implement processes and procedures to contain a privacy breach
+OP813,Complete Preliminary Breach Report
+OP814,Assess personal information involved in breach
+OP815,Assess cause and extent of the breach
+OP816,Identify individuals affected by breach
+OP817,Identify source of breach
+OP818,Assess foreseeable harm from a breach
+OP819,Complete Privacy Breach Report
+OP820,Complete sample notification messages
+OP821,Assess sensitivity of breached information
+OP822,Assess anticipated consequences of the use of breached PI
+OP823,Determine overall risk of injury to a person whose PI is concerned by breach
+OP824,Establish privacy breach reporting requirements  
+OP825,Draft privacy breach sample notification messages
+OP826,Establish privacy breach record
+OP827,Escalate privacy breach detection
+OP2621,Communicate data breach detection to involved third parties
+OP828,Communicate data breach detection to supervisory authority
+OP829,Communicate privacy breach report to supervisory authority
+OP830,Notify any person or body that could reduce risk of injury
+OP831,Record communications of information when notifying third party of breach
+OP2819,Notify internal stakeholders of privacy breach
+OP832,Define privacy breach notification to data subject requirements  
+OP833,Notify any person whose PI is concerned by the data breach of data breach
+OP834,Record every data breach incident upon discovery
+OP835,Communicate copy of data breach record to supervisory authority upon request
+OP2820,Maintain a record of all privacy breaches
+OP836,Define guidelines and procedures to manage personal information inventory
+OP2701,Establish a data quality metric for data maintained in personal information files
+OP837,Inventory of personal information collected and processed
+OP838,Identify types of information required to collect by law
+OP839,Classify categories of collected personal information
+OP2700,Create a personal information file
+OP2702,Establish a process to provide access to personal information file inventory
+OP2708,Create register for all personal information released for research and statistics purposes
+OP2709,Create register for agreements between public bodies
+OP2710,Create register for all uses of personal information without consent
+OP2622,Define guidelines and procedures to manage personal information banks (PIB)
+OP840,Create a Personal Information Banks (PIB)
+OP841,Identify elements to be included in PIB
+OP842,Periodically publish PIB Index
+OP843,"Request TBS for PIB registration, update and termination"
+OP845,Approve the new or substantially modified PIB
+OP846,Attest sound development of PIB
+OP844,Request TBS for Exempt Bank registration & termination
+OP847,Update existing Personal Information Bank (PIB)
+OP848,Communicate new uses and disclosures not reflected in a PIB
+OP2810,Establish mechanisms for the documentation of new and consistent uses to be updated in PIB 
+OP2811,Notify Privacy Commissioner of Canada on all new or consistent uses of PI
+OP2812,Monitor compliance to the Directive on Privacy Practices
+OP849,Identify data elements to be included in a PIB
+OP850,Define guidelines for documenting personal information (PI) processing
+OP851,Define roles and responsibilities for the maintenance of processing activities record
+OP852,Record name & contact details of controller and other relevant executives 
+OP2624,Create a Record of processing
+OP853,Record purposes of the PI processing
+OP855,Record categories of recipients to whom PI has been/will be disclosed 
+OP856,Record transfers of PI to third parties
+OP857,Record transfers of personal information to a third country/international organisation and document suitable safeguards
+OP858,Record envisaged time limits for erasure of different categories of PI 
+OP860,Provision of personal information processing record to supervisory authority
+OP861,Provision of personal information processing record to data subject
+OP862,Define data protection impact assessment process
+OP863,Define roles & responsibilities to conduct data protection impact assessment
+OP864,Identify processing operations that require a data protection impact assessment
+OP866,Assess necessity and proportionality of processing operations in relation to purposes
+OP867,Assess risks to rights and freedoms of data subjects caused by processing operations
+OP869,Periodically review whether processing is in accordance with data protection impact assessment 
+OP2976,Define data protection risks and create mitigation plan.
+OP2977,Establish a data protection risk assessment mechanism
+OP2978,Establish practices for protecting and managing personal information aligned to the Directice on Privacy Practices
+OP2979,"Develop plan to identify, mitigate, and comply with data privacy and security risks aligned to the Directive on Privacy Impact Assessment"
+OP2980,Develop a comprehensive data protection risk mitigation process
+OP2981,Establish IT Security Requirements practices following security control procedures
+OP2982,Establish a plan for responding to data protection incidents
+OP2983,Establish mechanism for compliance with Directive on Security Management and the Standard on Security Categorization
+OP2984,Establish practices to identify and mitigate privacy risks aligned with the Directive on Privacy Impact Assessment
+OP2792,Identify lead government institution for program or activity
+OP2793,Determine lead institution for common programs or activities
+OP2794,Establish interdepartmental committee for program or activity
+OP2795,Select approach for PIA completion and approval
+OP2764,Establish format for PIA
+OP870,Document PIA requirements and triggers  
+OP871,Establish PIA process
+OP872,Define roles and responsibilities for PIA process
+OP873,Draft preliminary analysis questionnaire
+OP874,Define guidelines and procedures to analyze PI processing project
+OP875,Establish privacy analysis checklist
+OP876,Define guidelines to conduct PIAs
+OP877,Define third Parties Contract Requirements regarding PIA
+OP878,Define guidelines and procedures to report PIA
+OP879,Train personnel to conduct PIA 
+OP2766,Analyze personal information to be used for program or activity
+OP880,Assess necessity of personal information for project purpose
+OP881,Assess sensitivity of personal information to be used in project
+OP882,Complete preliminary analysis questionnaire
+OP883,Assess whether executing a PIA is required
+OP2053,Approve/decide on the need to execute a full PIA (in a specific context)
+OP884,Define PIA scope for the project  
+OP885,Compile relevant project information
+OP886,Analyze relevant project business processes
+OP887,Analyze privacy implications of the project technology
+OP888,Analyze personal information flows in the project
+OP889,Approve the project analysis documentation
+OP2763,Approve completed PIA report
+OP2765,Publish approved PIA report
+OP890,Identify compliance gaps and privacy risks
+OP891,Execute Privacy Impact Assessment  
+OP2416,Assess privacy risks in project
+OP892,Define mitigation strategies for privacy impacts
+OP2839,Assess need for additional documentation and risk mitigation
+OP893,Assess the effectiveness of mitigation plans
+OP894,Define action plans for privacy impacts
+OP895,Produce the PIA report
+OP2715,Obtain endorsement for PIA report
+OP896,Communicate PIA report to relevant stakeholders
+OP2838,Communicate approved core PIA to TBS and OPC
+OP897,Review and approve the PIA
+OP899,Update PIA for new privacy impacts (Triggered)
+OP900,Communicate categories of PI collected concerning data subject
+OP901,Communicate categories of PI sold concerning data subject
+OP902,Communicate categories of third parties to whom PI was sold
+OP903,Communicate categories of PI disclosed for business purposes
+OP904,Record categories of PI sold
+OP905,Record categories of third parties to whom PI is sold
+OP906,Record categories of PI disclosed for business purpose
+OP907,Communicate to data subject the right to opt-out from PI sale
+OP908,Establish opt-out mechanisms for PI sale
+OP909,Detect opt-out from PI sale
+OP910,Prohibit the sale of PI following opt-out
+OP911,Demonstrate that PI sale is prohibited following opt-out
+OP912,Review opt-out compliance periodically
+OP913,Establish opt-in mechanisms for PI sale
+OP914,Validate identity for opt-in option
+OP915,Communicate opt-in option to data subjects concerning decisions based on automated processing
+OP916,Detect opt-in for PI sale
+OP917,Demonstrate that PI sale is permitted following opt-out
+OP918,Demonstrate that purchased PI is not sold without consent or knowledge
+OP919,Communicate sale intention to data subject
+OP920,Demonstrate data subject knowledge for PI sale
+OP921,Define requirements regarding selling Personal Information
+OP922,Define guidelines and procedures regarding financial incentives provided in exchange for PI
+OP923,Define requirements for purchasing Personal Information
+OP924,"Understand and manage legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations"
+OP925,Establish and communicate an enterprise information security policy
+OP926,Coordinate and align cybersecurity roles and responsibilities with internal roles and external partners
+OP927,Ensure governance and risk management processes address cybersecurity risks
+OP928,Define enterprise information security principles
+OP929,Identify and communicate the organization’s role in the supply chain
+OP930,Identify and communicate the organization’s place in critical infrastructure and its industry sector
+OP931,"Establish and communicate priorities for organizational mission, objectives, and activities"
+OP932,Establish dependencies and critical functions for delivery of critical services
+OP933,Establish resilience requirements to support delivery of critical services for all operating states
+OP934,Manage capacity to ensure availability
+OP935,Define appropriate physical zones to secure data assets
+OP936,Monitor security enforcement in each type of physical zone
+OP937,Define security accountability for different roles throughout the organization
+OP938,Define and communicate information security code of conduct
+OP939,"Train project team on security responsibilities, processes, and tools"
+OP940,Perform security training to external and third-parties
+OP941,Attest security training
+OP942,Establish and manage risk management processes
+OP943,Determine organizational tolerance to security risks
+OP944,Escalate security risks
+OP945,Periodically review security risks and mitigation
+OP946,Define a mitigation strategy for security risks
+OP947,Communicate mitigation strategies to relevant stakeholders
+OP948,Approve the security Risk Appetite Statement
+OP949,Communicate security Risk Appetite Statement to personnel
+OP950,Audit compliance to security Risk Appetite Statement periodically
+OP951,Identify and document asset vulnerabilities
+OP952,Identify and document threats
+OP953,"Manage security risk impacts, likelihoods and response"
+OP2650,Review residual security risks
+OP954,Assess organizational level security risks
+OP955,Assess security risks in project
+OP956,Conduct periodic assessment of security risks for a business sector
+OP957,Re-assess risks based on triggering factors
+OP958,Manage supply chain risks
+OP959,Produce security risks reports
+OP960,Communicate security risks to key stakeholders
+OP961,Communicate security risks and mitigation strategies to external regulatory supervisor
+OP962,Monitor compliance to security risk reporting structure
+OP963,Integrate security risk assessment into the hiring process
+OP964,Execute security risk assessment for new employee  
+OP965,Define security processes for employees leaving
+OP966,Execute security processes for employees leaving  
+OP967,Define policies and procedures for the acceptable use of enterprise devices  
+OP968,Define policies and procedures for the management of enterprise information  
+OP969,Train project team on teleworking policies and procedures
+OP970,Communicate to employees the person to contact if security issues occur
+OP971,Implement cybersecurity training courses to employees
+OP972,Implement training for employees to spot phishing attempts
+OP973,Implement password policy enforcer software to prohibit weak passwords
+OP974,Install virtual private networks on enterprise devices
+OP975,Install firewalls on enterprise devices
+OP976,Install anti-virus software on enterprise devices
+OP977,Implement proper training for employees regarding the use & updating of security tools
+OP978,Implement application whitelisting on enterprise devices
+OP979,Use multi-factor authentication on enterprise devices
+OP980,Use password-enabled screensavers on enterprise devices
+OP981,Automatically update devices
+OP982,Encourage employees to turn off Wi-Fi and Bluetooth when inactive
+OP983,Document data needs for employees
+OP984,Provide employees with access to information required to complete tasks
+OP985,Attest that employees are not provided unauthorized access to sensitive information
+OP986,Implement backup guidelines for sensitive information
+OP987,Implement encryption guidelines for sensitive information
+OP988,Attest that information receives the relevant protection for its sensitivity
+OP989,Define acceptable usage of mobile devices
+OP990,Define controls on usage of mobile devices
+OP991,Execute controls on usage of mobile devices  
+OP2170,Assess authentication requirements
+OP2171,Analyze authentication options
+OP2172,Select authentication solution
+OP2167,Determine identity assurance level requirements
+OP2168,Assess identity assurance levels
+OP2169,Assess credential assurance level requirements
+OP2208,Define identity context in context
+OP2209,"Define criteria, processes and accountabilities to assess and ensure uniqueness in programs and projects"
+OP2210,Define uniqueness requirements
+OP2211,Approve the uniqueness requirements
+OP2212,Attest that uniqueness requirements have been met
+OP2213,"Define criteria, processes, accountabilities and artefacts to collect and manage evidences of identity"
+OP2214,Define requirements for the management of evidence of identity 
+OP2215,Approve the requirements for evidences of identity
+OP2216,Attest that the requirements for management of evidence of identity have been met
+OP2217,"Define criteria, processes and accountabilities to assess and ensure accuracy of identity in programs and projects"
+OP2218,Define accuracy of identity requirements
+OP2219,Approve the accuracy of identity requirements
+OP2220,Attest that accuracy of identity requirements have been met
+OP2221,"Define methods, processes and accountabilities to ensure identity verification in programs and projects"
+OP2222,Define the selected method for identity verification
+OP2223,Approve the selected method for identity verification
+OP2224,Attest that identity verification requirements have been met
+OP2173,Assess identity assurance residual risks
+OP2174,Assess credential assurance residual risks
+OP2175,Assess authentication residual risks
+OP2176,Define mitigation measures for residual risks
+OP2177,Implement compensating factors for residual risk mitigation
+OP2178,Validate residual risk acceptance
+OP2203,Assess the applicability of identity management requirements
+OP2204,Assess identity management risks
+OP2205,Select distinguishing identity attributes 
+OP2206,Implement applicable identity assurance controls
+OP2207,Adopt an identity management trust framework
+OP992,Manage identities and credentials
+OP993,Manage physical access to assets
+OP994,Manage remote access
+OP995,Manage access permissions and authorizations
+OP2693,Integrate logging capabilities to record and document access to and use of data records
+OP2694,"Implement strong identification, authentication and session management "
+OP996,Protect network integrity
+OP997,Manage access to backup and archiving platforms
+OP998,Manage access to backup and archiving data
+OP999,Define criteria for authorized software (including downloads)
+OP1000,Define list of authorized software
+OP1001,Define the level of availability for data
+OP1002,Identify backup requirements for business needs
+OP1003,Identify archiving requirements for business needs
+OP1004,Define guidelines and procedures to backup and archive data
+OP1005,Define guidelines and procedures to store data
+OP1006,Report incident when backup and archiving requirements are impossible
+OP1007,Investigate backup and archiving incidents
+OP1008,Define default backup and archiving policy
+OP1009,Apply default backup and archiving
+OP1010,"Monitor compliance to ""by default"" backup and archiving policy"
+OP1011,Archive decision models
+OP1012,Perform data backups
+OP1013,Protect the confidentiality of backup CUI at storage locations
+OP1014,Manage information backups
+OP1015,Manage information purge
+OP1016,Test data backups
+OP1017,Define retention requirements for backup and archived data
+OP1018,Establish procedures and mechanisms to ensure retention of backup and archived data
+OP1019,Establish a centralized backup and archiving register
+OP1020,Record backup or archiving performance
+OP1021,Establish references to backup and archiving support
+OP1022,Analyze risk for distance between data origin and backup / archiving storage
+OP1023,Update risk analysis for backup and archiving
+OP1024,Establish security procedures for backup and archiving storage sites
+OP1025,Monitor backup and archiving storage site security
+OP1026,Identify backup registers constituting an audit trace
+OP1027,Retain backup registers constituting an audit trace
+OP1028,Define compatible formatting for archiving files
+OP1029,Establish compatible formatting for archiving files
+OP1030,Monitor format of archived files
+OP1031,Define an enterprise policy for document management
+OP1032,Define guidelines and procedures to store and retain data
+OP1033,Define guidelines and procedures to archive documents
+OP1034,Define guidelines and procedures to destroy documents
+OP1035,Designate responsible individual(s) for document management policy application
+OP1036,Vérification de la conformité à la politique d'entreprise pour la gestion de documents
+OP1037,"Review guidelines and procedures for data storage, retention, & archiving"
+OP1038,Define a classification scheme for documents belonging to the enterprise
+OP1039,"Classification des documents ""actifs"", ""semi-actifs"" et ""inactifs"""
+OP1040,Revue périodique de la classification des documents
+OP1041,Establish retention and archiving schedule
+OP1042,Define a retention schedule for documents
+OP1043,Define procedures for document archiving
+OP1044,Determine retention of inactive documents
+OP1045,Mise à jour du calendrier de rétention 
+OP1046,Soumission du calendrier à l'approbation de Bibliothèque et Archives nationales
+OP1047,Soumission des modifications du calendrier à l'approbation de Bibliothèque et Archives nationales
+OP1048,Modify schedule based on National Archives recommendation
+OP1049,Designate responsible individual(s) to monitor retention schedule application
+OP1050,Provide training on application of retention schedule
+OP1051,Attestation de formation pour le calendrier de rétention
+OP1052,Apply the retention and archiving schedule
+OP1053,Follow up on the application of retention and archiving schedule
+OP1054,Récupération de documents appartenant à l'entreprise
+OP1055,Attest that all employee documents are retrieved
+OP2662,Define functional requirements for user creation and capture of data records
+OP2663,Implement processes and tools for user creation and capture of data records
+OP2664,Implement processes and tools for integrity validation of captured data records
+OP2665,Monitor user capture of and access to data records
+OP2666,Audit user capture of and access to data records periodically
+OP2667,Integrate logging capabilities into the processes and tools for user creation and capture of data records
+OP2668,Define data records storage and retention functional requirements
+OP2669,"Implement data records storage and retention processes, mechanisms and tools"
+OP2670,"Implement data records disposal processes, mechanisms and tools"
+OP2671,"Establish data record archiving processes, mechanisms and tools"
+OP2672,"Document retention, archiving and disposal activities"
+OP2673,"Monitor data records retention, archiving and disposal activities"
+OP2674,"Audit data records retention, archiving, and disposal activities periodically"
+OP2675,"Integrate logging capabilities into data records storage and retention processes, mechanisms, and tools"
+OP2677,Define storage and retention rules and schedule for data records
+OP2678,"Implement data record's metadata capture processes, mechanisms and tools"
+OP2679,Implement data records classification mechanisms and tools
+OP2683,Implement mechanisms and tools for data records search and retrieval
+OP2684,Implement mechanisms and tools for data records presentation and usage
+OP2685,Implement mechanisms and tools for interoperability with other systems
+OP2686,Define data records export functional requirements
+OP2687,Implement data records export mechanisms or tools
+OP2688,Implement data records export quality validation mechanisms or tools
+OP2689,Implement data records export integrity validation mechanisms or tools
+OP2690,Define data record and metadata integrity requirements
+OP2692,Establish processes to enforce the integrity of data records and their metadata
+OP1056,Define an information recovery test process
+OP1057,Conduct information recovery test
+OP1058,Perform periodical information recovery tests
+OP1059,Establish automated logging of information recovery activities
+OP1060,Establish a centralized information recovery register
+OP1061,Record information recovery performance
+OP1062,Approve information recovery performance
+OP1063,Document scope of information recovery test
+OP1064,Document test result of information recovery
+OP1065,Document mitigation plan in the event of test failure
+OP1066,Manage system configuration
+OP1067,Implement System Development Life Cycle
+OP1068,Attest that policy and regulations regarding the physical operating environment for organizational assets are met
+OP1069,"Manage production, development and testing environments"
+OP1070,TBD
+OP1071,Continuously improve protection processes
+OP1072,Manage and communicate effectiveness of protection technologies
+OP1073,"Include cybersecurity in human resources practices (eg, deprovisioning, personnel screening)"
+OP1074,Develop and implement a plan for managing vulnerabilities
+OP1075,Verify hardware integrity
+OP1076,Maintain and repair organizational assets
+OP1077,Manage remote maintenance of organizational assets
+OP1078,Manage audit/log records
+OP1079,Protect removable media
+OP1080,Protect communications and control networks
+OP1081,"Manage the integrity of software, firmware, and information integrity"
+OP1082,Implement email forgery protections
+OP1083,"Conduct security assessment of enterprise software that has been developed internally, for internal use, and that has been organizationally defined as an area of risk"
+OP1084,Install software antivirus on employees' computers
+OP1085,Periodically update software antivirus on employees' computers
+OP1086,Manage software configuration
+OP1087,Define security requirements for software development
+OP1088,Embed security requirement in the enterprise software development lifecycle
+OP1089,Demonstrate inclusion of security requirements in software development
+OP2660,Define user access requirements and permissions to data records
+OP2661,Define functional requirements for user access to data records
+OP1090,Establish role-based data modification control 
+OP1574,Identify roles and responsibilities regarding access management 
+OP1091,"Determine ""In the lab"" access requirements"
+OP1092,"Define procedures to grant access to data ""In the lab"" and ""In the field"""
+OP1093,"Audit the process for managing ""In the lab"" access"
+OP2630,Attest that access to PI is limited to persons that have a valid reason
+OP1094,Establish role-based access control 
+OP2324,Implement strong access control to training data
+OP2695,Implement strong access control to data records and metadata
+OP2325,Implement strong access control to model
+OP1095,Communicate guidelines & rules to personnel with access to PI data
+OP1096,Detect suspicious personal information access
+OP1097,Demonstrate that suspicious access is resolved
+OP1098,Request access to personal information (PI)
+OP1099,Approve access to personal information (PI)
+OP2326,Audit access to training data
+OP2327,Audit access to model repository
+OP1100,Manage user access to decision models
+OP1101,Define data transfer agreement terms
+OP1102,Obtain internal approval of defined data transfer agreement
+OP1103,Obtain external approval of data transfer agreement
+OP1104,Monitor compliance to data transfer agreement
+OP1105,Define standards for data transfer security
+OP1106,Define roles and responsibilities for data transfer/sharing approval
+OP1107,Prohibit PI transfer/sharing on external devices
+OP1108,Monitor PI transfer and sharing
+OP1109,Demonstrate that non-compliant data transfers are resolved
+OP1110,"Define standards, directives, and procedures for the security of data in transit"
+OP1111,Define SLA with data providers
+OP1112,Define measures for data protection by default
+OP1113,Implement measures for data protection by default
+OP1114,Establish confidential default parameters for technological products &/or services
+OP1115,Demonstrate data minimization and confidentiality by default
+OP1116,Review data protection by default periodically
+OP1117,Designate accountable individual for compliance
+OP1118,Designate individual in charge of access to documents
+OP1119,Designate individual in charge of protecting personal information
+OP1120,Publish designated individual's title and contact information on website
+OP1121,Notify supervisory authority of contact info of designated individuals
+OP1122,Define security measures for PI protection
+OP1123,Monitor PI protection throughout lifecycle
+OP1124,"Demonstrate that security measures are relevant for the sensitivity, quantity & distribution of PI"
+OP2799,Determine required level of security measures for Personal Information protection
+OP1125,Implement training and awareness activities regarding PI protection to personnel
+OP1126,Publish description of security training offered to employees on website
+OP1127,Define roles and responsibilities for the monitoring of PI security measures
+OP1128,Communicate roles & responsibilities for monitoring security measures
+OP1129,Assess effectiveness of security measures for PI
+OP1130,Enhance security measures for the protection of PI
+OP1131,Monitor PI security measures
+OP2228,Assess the necessity of data masking
+OP1132,Define pseudonymisation / de-identification guidelines
+OP1133,Pseudonymise / De-identify personal information
+OP1134,Attest that pseudonymised PI is not identifiable without additional information 
+OP1135,Monitor pseudonymised PI storage
+OP1896,Define access and data masking requirements
+OP1897,Design data masking solutions for in-scope data
+OP1898,Implement data masking solutions
+OP1136,Define procedures to restore the availability and access to PI
+OP1137,Implement procedures to restore the availability and access to PI
+OP1138,Audit the ability to restore the availability and access to PI periodically
+OP1139,(TBD)
+OP1140,(TBD)
+OP1141,(TBD)
+OP1142,(TBD)
+OP1143,(TBD)
+OP1144,(TBD)
+OP1145,(TBD)
+OP1146,Brief access to protected information
+OP1147,Attest that responsibility briefing for access to protected information has been made
+OP1148,Manage anomalie and event detection
+OP1149,Manage detected events
+OP1150,Establish incident alert thresholds
+OP1151,Internal monitoring for potential cybersecurity events
+OP1152,Monitor external service provider activity for potential cybersecurity events
+OP1153,"Monitor for unauthorized personnel, connections, devices, and software"
+OP1154,Execute vulnerability scans
+OP1155,Manage detection processes
+OP1156,Test detection processes
+OP1157,Provide protection from malicious code at appropriate locations within organizational information systems
+OP1158,Update malicious code protection mechanisms when new releases are available
+OP1159,"Perform periodic scans of the information system and real-time scans of files from external sources as files are downloaded, opened, or executed"
+OP1160,Analyze system behavior to detect and mitigate the execution of normal system commands and scripts that indicate malicious actions
+OP1161,Define process to signal security incidents
+OP1162,Manage response plans
+OP1163,Test response plans
+OP1164,Execute response plan
+OP1165,Manage communication response
+OP1166,Analyze responses
+OP1167,"Establish processes to receive, analyze and respond to vulnerabilities"
+OP1168,Manage response mitigations
+OP1169,Manage response plans
+OP1170,Manage recovery plans
+OP1171,Test recovery plans
+OP1172,Execute recovery plans
+OP1173,Manage recovery plans
+OP1174,Manage recovery communications
+OP1175,Process to ...
+OP2532,Define appropriate level of transparency requirements in the context of the project
+OP2533,Validate adequacy of disclosure of AI system characteristics
+OP1176,Release AI / Analytics source code
+OP1803,Document access rights to source code
+OP2615,Configure access rights to source code
+OP1177,Publish documents & information as prescribed by law
+OP1178,Record description of data subject rights
+OP1179,Record collected categories of PI
+OP1180,Record sold categories of PI
+OP1181,Record categories of PI disclosed for business purposes
+OP1182,Record methods for submitting requests
+OP1183,Update online privacy policy
+OP1184,Define openness privacy policy  
+OP1185,Record information prescribed by law in openness policy
+OP1186,Demonstrate that openness policy is easily accessible for data subjects
+OP1187,Update openness privacy policy periodically
+OP1188,Establish list for the classification order of documents
+OP1189,Classify documents in a manner that allows easy retrieval
+OP1190,Provide access to classification order list upon request
+OP1191,Periodically audit the precision of classification order list
+OP1192,Identify information that cannot be released under legal framework
+OP1193,Assess whether document can be released without confidential information
+OP1194,Delete confidential information from document prior to release
+OP1195,Release modified document to individual requesting access
+OP1196,Create and publish a Policy for Explanation
+OP1465,Define explainability/interpretability strategy
+OP2604,Draft explanations for common decision results
+OP2653,Publish explanations for common decision results
+OP2605,Implement mechanisms to communicate explanations for decisions
+OP2534,Develop a user guide for the AI system
+OP2544,Perform a user evaluation of the developed user guide for the AI system
+OP1197,Document explainability/interpretability requirements
+OP2349,Approve the explainability/interpretability strategy
+OP2235,Validate interpretability requirements against organizational guidelines
+OP2236,Validate produced explanations by appropriate stakeholders
+OP2350,Validate achieved explainability/interpretability levels
+OP2237,Document interpretability requirements and results
+OP2238,Audit stakeholder interaction with AI system periodically
+OP1198,Implement mechanisms to provide explanation
+OP1199,Communicate right to get an explanation
+OP2616,Define documentation requirements for decisions made by automated decision systems
+OP1200,Assess the explainability requirements of projects
+OP2373,Assess notification requirements for the automated decision system
+OP1806,Define enterprise requirements for notices
+OP2293,Draft automated decision system notice
+OP2603,Approve the notice content by stakeholders
+OP1202,Publish automated decision system notice
+OP2294,Draft documentation regarding the automated decision system (for public publication)
+OP2295,Publish automated decision system documentation
+OP2409,Define disclaimers adequate to the context of the project
+OP2410,Communicate disclaimers to end-user stakeholders
+OP2441,Communicate AI system function and intended use to affected stakeholders
+OP1203,Notify data subject of significant decision taken by AI
+OP1204,Notify interaction with AI system
+OP1205,Notify of use cases for AI system design 
+OP2524,"Establish diversity definitions, requirements, and policy for the context of the project"
+OP2525,Validate diversity definitions and requirements
+OP2526,Gather project-related input and feedback from diverse multi-disciplinary stakeholders
+OP2527,Establish a diversity stakeholder list
+OP2528,Periodically monitor the diversity in decisions / opinions within the project
+OP1206,Publish a fairness position statement
+OP1207,Define the position on data fairness  
+OP2195,Define criteria and procedures to assess the fairness of data sources
+OP2302,Define fairness data quality requirements
+OP1208,Define roles and responsibilities for fairness management
+OP1209,Communicate roles & responsibilities for fairness management
+OP191,Define the Model Input Governance  
+OP2232,Define fairness requirements for the project
+OP2233,Document data selection and preparation process
+OP194,Validate data sources against organizational registry of fair / unfair data sources
+OP2194,Assess the fairness of data sources against enterprise fairness criteria
+OP195,Create and manage a list of unfair data sources
+OP2234,Adjust the algorithm to compensate for bias
+OP2196,Approve the data sources used by the project
+OP2571,Execute Bias (Fairness) Risk assessment  
+OP2551,Approve the Fairness Impact Assessments
+OP2512,Report fairness metrics and outcomes to stakeholders
+OP2513,Report fairness-accuracy tradeoff decisions and outcomes to stakeholders
+OP2420,Assess potential impacts of each bias type
+OP2421,Implement mechanisms to measure and mitigate bias
+OP1210,Implement mechanisms to measure and mitigate selection bias
+OP1211,Define enterprise strategy to prevent measurement bias
+OP1212,Implement mechanisms to measure and mitigate measurement bias
+OP1213,Implement mechanisms to measure and mitigate systematic bias
+OP1214,Implement mechanisms to measure and mitigate reinforcement bias
+OP1215,Implement mechanisms to measure and mitigate observer bias
+OP1216,Implement mechanisms to measure and mitigate outlier bias
+OP2438,Implement processes to identify sources of bias
+OP2439,Investigate and document the root cause of bias
+OP2440,Communicate the root-cause of bias to relevant stakeholders
+OP1891,Test AI system for bias
+OP2577,Compare bias metrics achieved vs reported on model card
+OP1217,Use representative dataset for model training (Not a specific activity)
+OP1218,Combine data inputs from multiple sources
+OP1219,Assess datasets against diversity requirements
+OP1220,Use different data collection devices
+OP1221,Use different samples for model training
+OP1222,Review recall bias minimization periodically
+OP1223,Minimize systematic bias
+OP1224,Periodically audit the prevention and minimization of selection bias
+OP1225,Minimize reinforcement bias
+OP1226,Periodically audit the prevention and minimization of reinforcement bias
+OP1227,Train employees for gold standard
+OP1228,Screen observers for bias
+OP1229,Review gold standard compliance periodically
+OP1230,Implement statistical tools to assess data distribution
+OP1231,Replace outliers in dataset
+OP1232,Conduct manual checks for outlier bias
+OP1233,Implement randomization to training data
+OP1234,Screen dataset for confounding variables
+OP1235,Create a check-list for exclusion decisions
+OP1236,Communicate check-list and guideline to data labelers
+OP1237,Review exclusion decisions periodically
+OP1274,Minimize indirect bias
+OP1275,Minimize bias in annotation data
+OP1238,Minimize problem formulation bias
+OP1239,Minimize data pre-processing bias
+OP1240,Minimize feature determination and model-building bias
+OP1241,Minimize analytics structure bias
+OP2459,Analyze the fairness implications of the project
+OP1242,Evaluate the impact of protected data features
+OP2430,Evaluate the impact of unprotected data features
+OP2431,Document risk of protected/unprotected features
+OP2432,Define Key Fairness Indicators
+OP2433,Review and approve Key Fairness Indicators
+OP2434,Test dataset against established fairness metrics
+OP2460,Establish fairness impacts mitigation processes and procedures
+OP2461,Define action plans to mitigate fairness impacts
+OP2435,Test data and model against established fairness metrics
+OP2651,Define processes to periodically reassess the Key Fairness Indicators
+OP2436,Periodically monitor and review data and model testing against established fairness metrics
+OP2437,Communicate data and model fairness testing results to relevant stakeholders
+OP1243,Conduct in-time validation with test data
+OP1244,Prune dataset to prevent overfitting
+OP1245,Cease model training prior to final iteration
+OP1246,Remove model layers
+OP1247,Add proxy data to the model dataset
+OP1248,Add relevant features/parameters to an underfitted model
+OP1249,Add complexity to an underfitted model
+OP1250,Add training time to an underfitted model
+OP1251,Assess algorithmic impacts against demographic/statistical parity
+OP1252,"Attest the alignment with ""Ethic Guidelines for Algorithmic Impacts"" against demographic / statistical parity"
+OP1253,Assess algorithmic impacts against true positive rate parity
+OP1254,"Attest the alignment with ""Ethic Guidelines for Algorithmic Impacts"" against true positive rate parity"
+OP1255,Assess algorithmic impacts against false positive rate parity
+OP1256,"Attest the alignment with ""Ethic Guidelines for Algorithmic Impacts"" against false positive rate parity"
+OP1257,Assess algorithmic impacts against positive predictive value parity
+OP1258,"Attest the alignment with ""Ethic Guidelines for Algorithmic Impacts"" against positive predictive value parity"
+OP1259,Assess algorithmic impacts against individual fairness
+OP1260,"Attest the alignment with ""Ethic Guidelines for Algorithmic Impacts"" against individual fairness"
+OP1261,Assess algorithmic impacts against counterfactual fairness
+OP1262,"Attest the alignment with ""Ethic Guidelines for Algorithmic Impacts"" against counterfactual fairness"
+OP1263,Assess AI system's performance when exposed to unseen data
+OP1264,Implement required adjustments to AI system for unseen data
+OP1265,Review AI system's performance with unseen data prior to deployment
+OP1266,Define assessment procedures for AI system fairness
+OP2711,Execute Gender-based Analysis Plus
+OP1267,Assess discrimination impacts
+OP1268,Assess AI decision consistency for the same AI subject circumstances
+OP1269,Implement required adjustments to AI system for discrimination
+OP2619,Implement monitoring mechanisms for unintended/ unforeseen system outcomes
+OP1270,Monitor unintended/unforeseen system outcomes
+OP1271,Analyze the root causes of unintended/unforeseen system outcomes
+OP1272,Ensure strong regimes of accountability at the site of user deployment
+OP1273,Ensure strong regimes of accountability at the site of user deployment
+OP2453,Establish guidelines and processes for a human centric approach in the context of the project
+OP1276,Establish human in control of technology policy
+OP1855,Define appropriate level of human involvement for a project
+OP1277,Define the human involvement purpose (decision making vs decision support)
+OP1278,Define the level of human involvement required for AI decision-making
+OP1279,Document chosen level of human involvement for specific model
+OP1280,Train personnel for chosen level of human involvement
+OP1281,Assess the complexity of decisions for automated decisions
+OP1282,Assess subjective judgment involved for automated decisions
+OP1283,Establish role of human in targeted processes
+OP2529,Produce an HTL integration report
+OP2530,Conduct periodic audit and review of HTL
+OP2531,Train personnel for HTL intervention
+OP1284,Implement human-in-the-loop approach
+OP1285,Approve the role of humans in the targeted processes
+OP1286,Define role of human-out-of-the-loop approach for automated decision-making
+OP1287,Define the human-over-the-loop approach for automated decision-making
+OP1856,Define response procedures for unintended behavior
+OP1857,Define roles and responsibilities to intervene during unintended behavior
+OP1858,Establish mechanism to allow human intervention
+OP1859,Establish shut down mechanism for AI / AA model
+OP1860,Train personnel for AI / AA model intervention
+OP1861,Test intervention mechanisms imbedded in AI / AA model
+OP1288,Attest the role of human in the algorithmic decision 
+OP1814,Define training procedures for automated decision system(s)
+OP1289,Train personnel for implementation of automated decision system(s)
+OP2617,Train personnel for implementation and operation of automated decision systems
+OP1815,Attest personnel training for automated decision system(s)
+OP2585,Establish relevant recourse options to challenge automated decision
+OP1290,Define procedures to review challenged automated decisions
+OP1291,Train personnel to review and resolve challenged decisions
+OP1292,Human review of challenged automated decisions
+OP1293,Monitor recourses against automated decisions
+OP2442,Regularly review and examine stakeholders’ disputes/appeals of the AI system's decision
+OP1294,"Review ""black box"" decisions"
+OP1295,"Train personnel to review ""black box"" decisions"
+OP1296,Demonstrate human review of black box decisions
+OP1985,Establish data ethics oversight function
+OP2092,Establish a Code of Data Ethics
+OP2093,Define roles and responsibilities of the data ethics function
+OP2094,Define remediation process for ethical issues
+OP2095,Train project team on ethical data management
+OP2096,Establish mechanism to raise ethical concerns
+OP1986,Evaluate ethical data access and usage
+OP1987,Evaluate ethical outcomes of data usage
+OP1297,Consult with SMEs in deployment field during model development
+OP1298,Consult with SMEs in social science during model development
+OP1299,Document SME recommendations for model development
+OP1300,Implement adjustments to AI system based on SME recommendations
+OP2514,Define Key Ethical Principles to be aligned with in the context of the project
+OP2515,Define ethics guidelines for algorithms in the context of the project
+OP2516,Determine ethical data usage context
+OP2517,Monitor and review alignment to ethical principles
+OP2518,Report ethics metrics and outcomes to stakeholders
+OP2519,Report ethics tradeoff decisions and outcomes to stakeholders
+OP1301,Map ethics operating practices to AI processes
+OP1302,Implement ethics operating practices within AI processes
+OP1303,Monitor ethics operating practices within AI processes
+OP2443,Establish an ethical impact assessment strategy
+OP2462,Identify and analyze ethics implications of the project
+OP2463,Establish an ethics impacts mitigation strategy
+OP1304,Report ethical issues in analytics contexts
+OP1305,Assess ethical issues
+OP1306,Define thresholds/triggers to conduct or update ethical impact assessment
+OP1307,Trigger performance/update of ethical impact assessment
+OP2413,Document ethics related decisions
+OP1308,Consult with SMEs for ethical risk management
+OP2465,Document ethics risk assessment
+OP2466,Communicate ethics risk assessment to relevant stakeholders
+OP1309,Monitor ethical issues
+OP1310,Review and validate the ethical impact assessment results
+OP1311,Define processes for escalation of ethical issues
+OP1312,Communicate escalation processes for ethical issues
+OP1313,Train employees on management of ethical issues
+OP1314,Escalate ethical issues
+OP1315,Train employees on identification and reporting of ethical concerns
+OP1316,Attest that training has been provided
+OP1317,Assess alignment between AI governance practices and AI ethical standards
+OP1318,Assess alignment between AI risk management and AI ethical standards
